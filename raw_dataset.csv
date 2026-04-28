@@ -1,0 +1,1001 @@
+Order ID,Date,Product ID,Product Name,Product Category,Quantity,PPU,Amount,Customer ID,Region,City,Peak Hours
+T001861,08-12-2025,PROD-008,Executive Ballpoint Pen Box,Office Supplies,8,"1,20,000","9,60,000",Customer-037,Asia,Mumbai,09:00 AM – 11:00 AM
+T000354,10-03-2025,PROD-007,USB-C Docking Station,Electronics,17,"2,50,000","42,50,000",Customer-104,Asia,Tokyo,06:00 PM – 09:00 PM
+T001334,12-09-2025,PROD-007,USB-C Docking Station,Electronics,9,"2,50,000","22,50,000",Customer-137,Europe,London,06:00 PM – 09:00 PM
+T000906,17-06-2025,PROD-008,Executive Ballpoint Pen Box,Office Supplies,35,"1,20,000","42,00,000",Customer-038,Asia,Singapore,09:00 AM – 11:00 AM
+T001290,08-09-2025,PROD-002,Wireless Mechanical Keyboard,Electronics,29,"3,50,000","1,01,50,000",Customer-149,Asia,Delhi,06:00 PM – 09:00 PM
+T001274,04-09-2025,PROD-006,A4 Printer Paper (500 Sheets),Office Supplies,44,"25,000","11,00,000",Customer-015,Asia,Mumbai,09:00 AM – 11:00 AM
+T000939,25-06-2025,PROD-004,Standing Desk Converter,Furniture,29,"5,00,000","1,45,00,000",Customer-120,Asia,Dubai,12:00 PM – 03:00 PM
+T001732,17-11-2025,PROD-009,Adjustable Monitor Arm,Furniture,27,"1,80,000","48,60,000",Customer-068,Asia,Pune,12:00 PM – 03:00 PM
+T000066,08-01-2025,PROD-002,Wireless Mechanical Keyboard,Electronics,270,"3,50,000","9,45,00,000",Customer-126,Asia,Delhi,06:00 PM – 09:00 PM
+T001324,11-09-2025,PROD-002,Wireless Mechanical Keyboard,Electronics,39,"3,50,000","1,36,50,000",Customer-003,Asia,Delhi,06:00 PM – 09:00 PM
+T000057,08-01-2025,PROD-009,Adjustable Monitor Arm,Furniture,31,"1,80,000","55,80,000",Customer-041,Asia,Mumbai,12:00 PM – 03:00 PM
+T001293,08-09-2025,PROD-003,27-inch 4K Monitor,Electronics,7,"12,00,000","84,00,000",Customer-112,Asia,Singapore,06:00 PM – 09:00 PM
+T001119,30-07-2025,PROD-002,Wireless Mechanical Keyboard,Electronics,30,"3,50,000","1,05,00,000",Customer-117,Asia,Kolkata,06:00 PM – 09:00 PM
+T000585,17-04-2025,PROD-010,Webcam 1080p HD,Electronics,28,"2,00,000","56,00,000",Customer-124,Asia,Pune,06:00 PM – 09:00 PM
+T000375,12-03-2025,PROD-004,Standing Desk Converter,Furniture,29,"5,00,000","1,45,00,000",Customer-104,Asia,Hyderabad,12:00 PM – 03:00 PM
+T000276,26-02-2025,PROD-010,Webcam 1080p HD,Electronics,430,"2,00,000","8,60,00,000",Customer-067,Asia,Mumbai,06:00 PM – 09:00 PM
+T000747,15-05-2025,PROD-006,A4 Printer Paper (500 Sheets),Office Supplies,29,"25,000","7,25,000",Customer-128,Europe,London,09:00 AM – 11:00 AM
+T000129,20-01-2025,PROD-007,USB-C Docking Station,Electronics,8,"2,50,000","20,00,000",Customer-024,Asia,Singapore,06:00 PM – 09:00 PM
+T001647,31-10-2025,PROD-002,Wireless Mechanical Keyboard,Electronics,48,"3,50,000","1,68,00,000",Customer-016,Asia,Pune,06:00 PM – 09:00 PM
+T001853,05-12-2025,PROD-003,27-inch 4K Monitor,Electronics,11,"12,00,000","1,32,00,000",Customer-016,Asia,Mumbai,06:00 PM – 09:00 PM
+T000675,01-05-2025,PROD-004,Standing Desk Converter,Furniture,16,"5,00,000","80,00,000",Customer-111,Europe,London,12:00 PM – 03:00 PM
+T001665,05-11-2025,PROD-002,Wireless Mechanical Keyboard,Electronics,43,"3,50,000","1,50,50,000",Customer-048,Asia,Mumbai,06:00 PM – 09:00 PM
+T001982,30-12-2025,PROD-003,27-inch 4K Monitor,Electronics,42,"12,00,000","5,04,00,000",Customer-083,Asia,Chennai,06:00 PM – 09:00 PM
+T001084,24-07-2025,PROD-010,Webcam 1080p HD,Electronics,42,"2,00,000","84,00,000",Customer-018,Asia,Bengaluru,06:00 PM – 09:00 PM
+T001923,22-12-2025,PROD-007,USB-C Docking Station,Electronics,29,"2,50,000","72,50,000",Customer-085,North America,New York,06:00 PM – 09:00 PM
+T000100,15-01-2025,PROD-001,Ergonomic Mesh Chair,Furniture,37,"4,50,000","1,66,50,000",Customer-014,Asia,Singapore,12:00 PM – 03:00 PM
+T001180,14-08-2025,PROD-009,Adjustable Monitor Arm,Furniture,38,"1,80,000","68,40,000",Customer-013,Europe,London,12:00 PM – 03:00 PM
+T000965,30-06-2025,PROD-007,USB-C Docking Station,Electronics,24,"2,50,000","60,00,000",Customer-097,Asia,Pune,06:00 PM – 09:00 PM
+T000793,22-05-2025,PROD-006,A4 Printer Paper (500 Sheets),Office Supplies,10,"25,000","2,50,000",Customer-126,Asia,Mumbai,09:00 AM – 11:00 AM
+T000030,03-01-2025,PROD-007,USB-C Docking Station,Electronics,130,"2,50,000","3,25,00,000",Customer-056,Asia,Bengaluru,06:00 PM – 09:00 PM
+T000629,23-04-2025,PROD-003,27-inch 4K Monitor,Electronics,39,"12,00,000","4,68,00,000",Customer-116,Asia,Mumbai,06:00 PM – 09:00 PM
+T000945,26-06-2025,PROD-008,Executive Ballpoint Pen Box,Office Supplies,36,"1,20,000","43,20,000",Customer-107,Europe,London,09:00 AM – 11:00 AM
+T000573,16-04-2025,PROD-004,Standing Desk Converter,Furniture,17,"5,00,000","85,00,000",Customer-036,Asia,Dubai,12:00 PM – 03:00 PM
+T000908,17-06-2025,PROD-005,Noise-Cancelling Headphones,Electronics,360,"9,50,000","34,20,00,000",Customer-135,Asia,Singapore,06:00 PM – 09:00 PM
+T001081,23-07-2025,PROD-006,A4 Printer Paper (500 Sheets),Office Supplies,10,"25,000","2,50,000",Customer-008,Asia,Pune,09:00 AM – 11:00 AM
+T000451,27-03-2025,PROD-001,Ergonomic Mesh Chair,Furniture,18,"4,50,000","81,00,000",Customer-008,Asia,Hyderabad,12:00 PM – 03:00 PM
+T001610,29-10-2025,PROD-002,Wireless Mechanical Keyboard,Electronics,36,"3,50,000","1,26,00,000",Customer-021,Asia,Chennai,06:00 PM – 09:00 PM
+T001291,08-09-2025,PROD-002,Wireless Mechanical Keyboard,Electronics,480,"3,50,000","16,80,00,000",Customer-064,Asia,Bengaluru,06:00 PM – 09:00 PM
+T001079,23-07-2025,PROD-006,A4 Printer Paper (500 Sheets),Office Supplies,25,"25,000","6,25,000",Customer-059,Asia,Dubai,09:00 AM – 11:00 AM
+T000255,13-02-2025,PROD-009,Adjustable Monitor Arm,Furniture,48,"1,80,000","86,40,000",Customer-086,Asia,Pune,12:00 PM – 03:00 PM
+T000125,20-01-2025,PROD-002,Wireless Mechanical Keyboard,Electronics,30,"3,50,000","1,05,00,000",Customer-071,Asia,Mumbai,06:00 PM – 09:00 PM
+T001928,22-12-2025,PROD-006,A4 Printer Paper (500 Sheets),Office Supplies,12,"25,000","3,00,000",Customer-022,Asia,Chennai,09:00 AM – 11:00 AM
+T000252,13-02-2025,PROD-003,27-inch 4K Monitor,Electronics,10,"12,00,000","1,20,00,000",Customer-072,Europe,London,06:00 PM – 09:00 PM
+T000586,17-04-2025,PROD-008,Executive Ballpoint Pen Box,Office Supplies,28,"1,20,000","33,60,000",Customer-147,Europe,London,09:00 AM – 11:00 AM
+T001569,20-10-2025,PROD-002,Wireless Mechanical Keyboard,Electronics,33,"3,50,000","1,15,50,000",Customer-121,Asia,Mumbai,06:00 PM – 09:00 PM
+T000825,04-06-2025,PROD-001,Ergonomic Mesh Chair,Furniture,46,"4,50,000","2,07,00,000",Customer-097,Asia,Bengaluru,12:00 PM – 03:00 PM
+T000508,04-04-2025,PROD-009,Adjustable Monitor Arm,Furniture,8,"1,80,000","14,40,000",Customer-115,Asia,Delhi,12:00 PM – 03:00 PM
+T000890,16-06-2025,PROD-010,Webcam 1080p HD,Electronics,43,"2,00,000","86,00,000",Customer-047,Asia,Dubai,06:00 PM – 09:00 PM
+T000071,09-01-2025,PROD-009,Adjustable Monitor Arm,Furniture,44,"1,80,000","79,20,000",Customer-021,Asia,Tokyo,12:00 PM – 03:00 PM
+T001609,29-10-2025,PROD-008,Executive Ballpoint Pen Box,Office Supplies,400,"1,20,000","4,80,00,000",Customer-116,North America,New York,09:00 AM – 11:00 AM
+T001533,14-10-2025,PROD-007,USB-C Docking Station,Electronics,18,"2,50,000","45,00,000",Customer-002,Asia,Singapore,06:00 PM – 09:00 PM
+T000248,11-02-2025,PROD-009,Adjustable Monitor Arm,Furniture,7,"1,80,000","12,60,000",Customer-003,Asia,Mumbai,12:00 PM – 03:00 PM
+T001451,29-09-2025,PROD-004,Standing Desk Converter,Furniture,14,"5,00,000","70,00,000",Customer-138,Europe,London,12:00 PM – 03:00 PM
+T000213,06-02-2025,PROD-002,Wireless Mechanical Keyboard,Electronics,8,"3,50,000","28,00,000",Customer-024,Asia,Bengaluru,06:00 PM – 09:00 PM
+T000910,19-06-2025,PROD-007,USB-C Docking Station,Electronics,43,"2,50,000","1,07,50,000",Customer-056,Asia,Hyderabad,06:00 PM – 09:00 PM
+T001742,18-11-2025,PROD-004,Standing Desk Converter,Furniture,20,"5,00,000","1,00,00,000",Customer-033,North America,New York,12:00 PM – 03:00 PM
+T001245,26-08-2025,PROD-004,Standing Desk Converter,Furniture,15,"5,00,000","75,00,000",Customer-060,Asia,Hyderabad,12:00 PM – 03:00 PM
+T001697,11-11-2025,PROD-008,Executive Ballpoint Pen Box,Office Supplies,41,"1,20,000","49,20,000",Customer-146,Asia,Delhi,09:00 AM – 11:00 AM
+T001183,14-08-2025,PROD-007,USB-C Docking Station,Electronics,26,"2,50,000","65,00,000",Customer-080,Asia,Bengaluru,06:00 PM – 09:00 PM
+T000362,11-03-2025,PROD-007,USB-C Docking Station,Electronics,36,"2,50,000","90,00,000",Customer-005,Asia,Hyderabad,06:00 PM – 09:00 PM
+T001474,01-10-2025,PROD-006,A4 Printer Paper (500 Sheets),Office Supplies,14,"25,000","3,50,000",Customer-022,North America,New York,09:00 AM – 11:00 AM
+T000679,01-05-2025,PROD-003,27-inch 4K Monitor,Electronics,15,"12,00,000","1,80,00,000",Customer-011,Asia,Bengaluru,06:00 PM – 09:00 PM
+T001622,30-10-2025,PROD-010,Webcam 1080p HD,Electronics,32,"2,00,000","64,00,000",Customer-071,Asia,Tokyo,06:00 PM – 09:00 PM
+T001090,24-07-2025,PROD-005,Noise-Cancelling Headphones,Electronics,230,"9,50,000","21,85,00,000",Customer-122,Asia,Pune,06:00 PM – 09:00 PM
+T001988,31-12-2025,PROD-009,Adjustable Monitor Arm,Furniture,20,"1,80,000","36,00,000",Customer-013,Asia,Singapore,12:00 PM – 03:00 PM
+T001848,04-12-2025,PROD-002,Wireless Mechanical Keyboard,Electronics,39,"3,50,000","1,36,50,000",Customer-148,North America,New York,06:00 PM – 09:00 PM
+T000988,04-07-2025,PROD-010,Webcam 1080p HD,Electronics,40,"2,00,000","80,00,000",Customer-085,North America,New York,06:00 PM – 09:00 PM
+T001513,10-10-2025,PROD-003,27-inch 4K Monitor,Electronics,7,"12,00,000","84,00,000",Customer-009,Asia,Mumbai,06:00 PM – 09:00 PM
+T000112,16-01-2025,PROD-008,Executive Ballpoint Pen Box,Office Supplies,16,"1,20,000","19,20,000",Customer-123,Asia,Bengaluru,09:00 AM – 11:00 AM
+T001488,07-10-2025,PROD-009,Adjustable Monitor Arm,Furniture,21,"1,80,000","37,80,000",Customer-011,Asia,Hyderabad,12:00 PM – 03:00 PM
+T001454,30-09-2025,PROD-007,USB-C Docking Station,Electronics,36,"2,50,000","90,00,000",Customer-043,Asia,Kolkata,06:00 PM – 09:00 PM
+T000384,13-03-2025,PROD-010,Webcam 1080p HD,Electronics,35,"2,00,000","70,00,000",Customer-046,Asia,Dubai,06:00 PM – 09:00 PM
+T001396,23-09-2025,PROD-001,Ergonomic Mesh Chair,Furniture,38,"4,50,000","1,71,00,000",Customer-071,Asia,Kolkata,12:00 PM – 03:00 PM
+T001055,16-07-2025,PROD-010,Webcam 1080p HD,Electronics,49,"2,00,000","98,00,000",Customer-080,Asia,Tokyo,06:00 PM – 09:00 PM
+T000756,16-05-2025,PROD-002,Wireless Mechanical Keyboard,Electronics,33,"3,50,000","1,15,50,000",Customer-109,Asia,Pune,06:00 PM – 09:00 PM
+T000325,05-03-2025,PROD-003,27-inch 4K Monitor,Electronics,300,"12,00,000","36,00,00,000",Customer-040,Asia,Hyderabad,06:00 PM – 09:00 PM
+T001624,30-10-2025,PROD-008,Executive Ballpoint Pen Box,Office Supplies,36,"1,20,000","43,20,000",Customer-032,Asia,Singapore,09:00 AM – 11:00 AM
+T000788,21-05-2025,PROD-005,Noise-Cancelling Headphones,Electronics,38,"9,50,000","3,61,00,000",Customer-095,Asia,Tokyo,06:00 PM – 09:00 PM
+T000369,11-03-2025,PROD-005,Noise-Cancelling Headphones,Electronics,20,"9,50,000","1,90,00,000",Customer-054,Asia,Kolkata,06:00 PM – 09:00 PM
+T001820,01-12-2025,PROD-002,Wireless Mechanical Keyboard,Electronics,30,"3,50,000","1,05,00,000",Customer-003,Asia,Delhi,06:00 PM – 09:00 PM
+T000070,09-01-2025,PROD-002,Wireless Mechanical Keyboard,Electronics,21,"3,50,000","73,50,000",Customer-005,Europe,London,06:00 PM – 09:00 PM
+T000858,09-06-2025,PROD-008,Executive Ballpoint Pen Box,Office Supplies,44,"1,20,000","52,80,000",Customer-019,Asia,Mumbai,09:00 AM – 11:00 AM
+T001484,07-10-2025,PROD-006,A4 Printer Paper (500 Sheets),Office Supplies,47,"25,000","11,75,000",Customer-044,Europe,London,09:00 AM – 11:00 AM
+T001556,17-10-2025,PROD-008,Executive Ballpoint Pen Box,Office Supplies,400,"1,20,000","4,80,00,000",Customer-144,Asia,Mumbai,09:00 AM – 11:00 AM
+T001692,07-11-2025,PROD-007,USB-C Docking Station,Electronics,10,"2,50,000","25,00,000",Customer-023,North America,New York,06:00 PM – 09:00 PM
+T001475,01-10-2025,PROD-009,Adjustable Monitor Arm,Furniture,48,"1,80,000","86,40,000",Customer-016,Asia,Delhi,12:00 PM – 03:00 PM
+T001799,26-11-2025,PROD-007,USB-C Docking Station,Electronics,15,"2,50,000","37,50,000",Customer-112,Asia,Kolkata,06:00 PM – 09:00 PM
+T000479,01-04-2025,PROD-010,Webcam 1080p HD,Electronics,13,"2,00,000","26,00,000",Customer-062,Asia,Hyderabad,06:00 PM – 09:00 PM
+T000282,26-02-2025,PROD-003,27-inch 4K Monitor,Electronics,340,"12,00,000","40,80,00,000",Customer-093,Asia,Pune,06:00 PM – 09:00 PM
+T001648,31-10-2025,PROD-010,Webcam 1080p HD,Electronics,41,"2,00,000","82,00,000",Customer-028,Asia,Pune,06:00 PM – 09:00 PM
+T001557,17-10-2025,PROD-008,Executive Ballpoint Pen Box,Office Supplies,500,"1,20,000","6,00,00,000",Customer-047,Europe,London,09:00 AM – 11:00 AM
+T001730,17-11-2025,PROD-006,A4 Printer Paper (500 Sheets),Office Supplies,32,"25,000","8,00,000",Customer-024,Asia,Chennai,09:00 AM – 11:00 AM
+T000211,06-02-2025,PROD-001,Ergonomic Mesh Chair,Furniture,23,"4,50,000","1,03,50,000",Customer-103,Asia,Hyderabad,12:00 PM – 03:00 PM
+T000298,28-02-2025,PROD-004,Standing Desk Converter,Furniture,400,"5,00,000","20,00,00,000",Customer-028,Asia,Kolkata,12:00 PM – 03:00 PM
+T001885,12-12-2025,PROD-008,Executive Ballpoint Pen Box,Office Supplies,12,"1,20,000","14,40,000",Customer-030,Asia,Tokyo,09:00 AM – 11:00 AM
+T001834,03-12-2025,PROD-005,Noise-Cancelling Headphones,Electronics,13,"9,50,000","1,23,50,000",Customer-113,Europe,London,06:00 PM – 09:00 PM
+T000652,25-04-2025,PROD-002,Wireless Mechanical Keyboard,Electronics,15,"3,50,000","52,50,000",Customer-037,Asia,Singapore,06:00 PM – 09:00 PM
+T001234,25-08-2025,PROD-001,Ergonomic Mesh Chair,Furniture,12,"4,50,000","54,00,000",Customer-003,Asia,Mumbai,12:00 PM – 03:00 PM
+T001503,09-10-2025,PROD-007,USB-C Docking Station,Electronics,31,"2,50,000","77,50,000",Customer-099,Asia,Tokyo,06:00 PM – 09:00 PM
+T001932,22-12-2025,PROD-009,Adjustable Monitor Arm,Furniture,450,"1,80,000","8,10,00,000",Customer-025,Asia,Hyderabad,12:00 PM – 03:00 PM
+T000917,23-06-2025,PROD-009,Adjustable Monitor Arm,Furniture,210,"1,80,000","3,78,00,000",Customer-001,North America,New York,12:00 PM – 03:00 PM
+T000994,04-07-2025,PROD-007,USB-C Docking Station,Electronics,31,"2,50,000","77,50,000",Customer-016,Asia,Kolkata,06:00 PM – 09:00 PM
+T000430,25-03-2025,PROD-006,A4 Printer Paper (500 Sheets),Office Supplies,30,"25,000","7,50,000",Customer-070,Asia,Hyderabad,09:00 AM – 11:00 AM
+T001371,18-09-2025,PROD-002,Wireless Mechanical Keyboard,Electronics,19,"3,50,000","66,50,000",Customer-093,Asia,Kolkata,06:00 PM – 09:00 PM
+T000240,11-02-2025,PROD-010,Webcam 1080p HD,Electronics,26,"2,00,000","52,00,000",Customer-011,Asia,Dubai,06:00 PM – 09:00 PM
+T000880,13-06-2025,PROD-003,27-inch 4K Monitor,Electronics,11,"12,00,000","1,32,00,000",Customer-067,Asia,Bengaluru,06:00 PM – 09:00 PM
+T000621,22-04-2025,PROD-005,Noise-Cancelling Headphones,Electronics,44,"9,50,000","4,18,00,000",Customer-045,Asia,Hyderabad,06:00 PM – 09:00 PM
+T000257,24-02-2025,PROD-010,Webcam 1080p HD,Electronics,34,"2,00,000","68,00,000",Customer-085,Asia,Kolkata,06:00 PM – 09:00 PM
+T000612,22-04-2025,PROD-006,A4 Printer Paper (500 Sheets),Office Supplies,48,"25,000","12,00,000",Customer-087,Asia,Kolkata,09:00 AM – 11:00 AM
+T000545,11-04-2025,PROD-009,Adjustable Monitor Arm,Furniture,42,"1,80,000","75,60,000",Customer-135,Europe,London,12:00 PM – 03:00 PM
+T000772,19-05-2025,PROD-006,A4 Printer Paper (500 Sheets),Office Supplies,13,"25,000","3,25,000",Customer-037,Europe,London,09:00 AM – 11:00 AM
+T001420,24-09-2025,PROD-004,Standing Desk Converter,Furniture,40,"5,00,000","2,00,00,000",Customer-023,Asia,Kolkata,12:00 PM – 03:00 PM
+T001042,14-07-2025,PROD-008,Executive Ballpoint Pen Box,Office Supplies,23,"1,20,000","27,60,000",Customer-048,Asia,Hyderabad,09:00 AM – 11:00 AM
+T001790,26-11-2025,PROD-008,Executive Ballpoint Pen Box,Office Supplies,370,"1,20,000","4,44,00,000",Customer-015,Asia,Bengaluru,09:00 AM – 11:00 AM
+T000760,16-05-2025,PROD-005,Noise-Cancelling Headphones,Electronics,22,"9,50,000","2,09,00,000",Customer-026,Asia,Chennai,06:00 PM – 09:00 PM
+T000383,12-03-2025,PROD-004,Standing Desk Converter,Furniture,46,"5,00,000","2,30,00,000",Customer-047,Asia,Pune,12:00 PM – 03:00 PM
+T001104,25-07-2025,PROD-004,Standing Desk Converter,Furniture,41,"5,00,000","2,05,00,000",Customer-037,Asia,Dubai,12:00 PM – 03:00 PM
+T000974,02-07-2025,PROD-005,Noise-Cancelling Headphones,Electronics,45,"9,50,000","4,27,50,000",Customer-073,Asia,Delhi,06:00 PM – 09:00 PM
+T000353,10-03-2025,PROD-001,Ergonomic Mesh Chair,Furniture,38,"4,50,000","1,71,00,000",Customer-050,Asia,Mumbai,12:00 PM – 03:00 PM
+T001606,24-10-2025,PROD-004,Standing Desk Converter,Furniture,44,"5,00,000","2,20,00,000",Customer-110,Asia,Chennai,12:00 PM – 03:00 PM
+T001826,03-12-2025,PROD-001,Ergonomic Mesh Chair,Furniture,44,"4,50,000","1,98,00,000",Customer-120,North America,New York,12:00 PM – 03:00 PM
+T001037,11-07-2025,PROD-003,27-inch 4K Monitor,Electronics,35,"12,00,000","4,20,00,000",Customer-086,Asia,Dubai,06:00 PM – 09:00 PM
+T001108,25-07-2025,PROD-005,Noise-Cancelling Headphones,Electronics,25,"9,50,000","2,37,50,000",Customer-125,Asia,Kolkata,06:00 PM – 09:00 PM
+T000495,03-04-2025,PROD-006,A4 Printer Paper (500 Sheets),Office Supplies,21,"25,000","5,25,000",Customer-098,Asia,Bengaluru,09:00 AM – 11:00 AM
+T000394,13-03-2025,PROD-006,A4 Printer Paper (500 Sheets),Office Supplies,250,"25,000","62,50,000",Customer-064,North America,New York,09:00 AM – 11:00 AM
+T001547,15-10-2025,PROD-002,Wireless Mechanical Keyboard,Electronics,7,"3,50,000","24,50,000",Customer-067,Asia,Tokyo,06:00 PM – 09:00 PM
+T000465,31-03-2025,PROD-007,USB-C Docking Station,Electronics,25,"2,50,000","62,50,000",Customer-089,Asia,Hyderabad,06:00 PM – 09:00 PM
+T000887,16-06-2025,PROD-010,Webcam 1080p HD,Electronics,5,"2,00,000","10,00,000",Customer-030,Asia,Pune,06:00 PM – 09:00 PM
+T001194,15-08-2025,PROD-005,Noise-Cancelling Headphones,Electronics,39,"9,50,000","3,70,50,000",Customer-031,Asia,Kolkata,06:00 PM – 09:00 PM
+T000367,11-03-2025,PROD-008,Executive Ballpoint Pen Box,Office Supplies,40,"1,20,000","48,00,000",Customer-110,Asia,Chennai,09:00 AM – 11:00 AM
+T001894,16-12-2025,PROD-009,Adjustable Monitor Arm,Furniture,45,"1,80,000","81,00,000",Customer-019,Asia,Tokyo,12:00 PM – 03:00 PM
+T001874,09-12-2025,PROD-008,Executive Ballpoint Pen Box,Office Supplies,41,"1,20,000","49,20,000",Customer-120,Asia,Pune,09:00 AM – 11:00 AM
+T000745,15-05-2025,PROD-004,Standing Desk Converter,Furniture,48,"5,00,000","2,40,00,000",Customer-076,North America,New York,12:00 PM – 03:00 PM
+T000530,08-04-2025,PROD-004,Standing Desk Converter,Furniture,8,"5,00,000","40,00,000",Customer-034,North America,New York,12:00 PM – 03:00 PM
+T000803,28-05-2025,PROD-010,Webcam 1080p HD,Electronics,18,"2,00,000","36,00,000",Customer-146,Asia,Bengaluru,06:00 PM – 09:00 PM
+T001224,25-08-2025,PROD-004,Standing Desk Converter,Furniture,26,"5,00,000","1,30,00,000",Customer-084,Europe,London,12:00 PM – 03:00 PM
+T001979,30-12-2025,PROD-010,Webcam 1080p HD,Electronics,39,"2,00,000","78,00,000",Customer-137,Europe,London,06:00 PM – 09:00 PM
+T001906,17-12-2025,PROD-010,Webcam 1080p HD,Electronics,21,"2,00,000","42,00,000",Customer-071,Asia,Mumbai,06:00 PM – 09:00 PM
+T001700,11-11-2025,PROD-006,A4 Printer Paper (500 Sheets),Office Supplies,9,"25,000","2,25,000",Customer-126,Asia,Pune,09:00 AM – 11:00 AM
+T001545,15-10-2025,PROD-001,Ergonomic Mesh Chair,Furniture,38,"4,50,000","1,71,00,000",Customer-118,Asia,Hyderabad,12:00 PM – 03:00 PM
+T001314,10-09-2025,PROD-004,Standing Desk Converter,Furniture,50,"5,00,000","2,50,00,000",Customer-091,Asia,Bengaluru,12:00 PM – 03:00 PM
+T000307,28-02-2025,PROD-002,Wireless Mechanical Keyboard,Electronics,47,"3,50,000","1,64,50,000",Customer-027,Asia,Chennai,06:00 PM – 09:00 PM
+T001667,05-11-2025,PROD-004,Standing Desk Converter,Furniture,6,"5,00,000","30,00,000",Customer-056,Asia,Tokyo,12:00 PM – 03:00 PM
+T000863,11-06-2025,PROD-002,Wireless Mechanical Keyboard,Electronics,14,"3,50,000","49,00,000",Customer-125,Asia,Tokyo,06:00 PM – 09:00 PM
+T001567,20-10-2025,PROD-003,27-inch 4K Monitor,Electronics,6,"12,00,000","72,00,000",Customer-044,Asia,Tokyo,06:00 PM – 09:00 PM
+T000531,08-04-2025,PROD-006,A4 Printer Paper (500 Sheets),Office Supplies,5,"25,000","1,25,000",Customer-007,Asia,Chennai,09:00 AM – 11:00 AM
+T000655,28-04-2025,PROD-007,USB-C Docking Station,Electronics,12,"2,50,000","30,00,000",Customer-003,Asia,Tokyo,06:00 PM – 09:00 PM
+T001260,27-08-2025,PROD-002,Wireless Mechanical Keyboard,Electronics,80,"3,50,000","2,80,00,000",Customer-055,Asia,Bengaluru,06:00 PM – 09:00 PM
+T000234,10-02-2025,PROD-002,Wireless Mechanical Keyboard,Electronics,50,"3,50,000","1,75,00,000",Customer-070,Asia,Pune,06:00 PM – 09:00 PM
+T000121,20-01-2025,PROD-008,Executive Ballpoint Pen Box,Office Supplies,48,"1,20,000","57,60,000",Customer-072,North America,New York,09:00 AM – 11:00 AM
+T001698,11-11-2025,PROD-010,Webcam 1080p HD,Electronics,130,"2,00,000","2,60,00,000",Customer-117,Asia,Hyderabad,06:00 PM – 09:00 PM
+T000950,26-06-2025,PROD-007,USB-C Docking Station,Electronics,24,"2,50,000","60,00,000",Customer-140,Asia,Pune,06:00 PM – 09:00 PM
+T000618,22-04-2025,PROD-001,Ergonomic Mesh Chair,Furniture,33,"4,50,000","1,48,50,000",Customer-078,Europe,London,12:00 PM – 03:00 PM
+T001179,13-08-2025,PROD-008,Executive Ballpoint Pen Box,Office Supplies,30,"1,20,000","36,00,000",Customer-047,Asia,Delhi,09:00 AM – 11:00 AM
+T000308,28-02-2025,PROD-006,A4 Printer Paper (500 Sheets),Office Supplies,22,"25,000","5,50,000",Customer-055,Asia,Singapore,09:00 AM – 11:00 AM
+T000136,21-01-2025,PROD-007,USB-C Docking Station,Electronics,50,"2,50,000","1,25,00,000",Customer-046,Asia,Tokyo,06:00 PM – 09:00 PM
+T000555,15-04-2025,PROD-006,A4 Printer Paper (500 Sheets),Office Supplies,10,"25,000","2,50,000",Customer-073,Asia,Delhi,09:00 AM – 11:00 AM
+T001674,06-11-2025,PROD-004,Standing Desk Converter,Furniture,390,"5,00,000","19,50,00,000",Customer-134,Asia,Delhi,12:00 PM – 03:00 PM
+T000584,17-04-2025,PROD-006,A4 Printer Paper (500 Sheets),Office Supplies,340,"25,000","85,00,000",Customer-120,Asia,Kolkata,09:00 AM – 11:00 AM
+T001641,31-10-2025,PROD-002,Wireless Mechanical Keyboard,Electronics,30,"3,50,000","1,05,00,000",Customer-076,Europe,London,06:00 PM – 09:00 PM
+T000671,30-04-2025,PROD-002,Wireless Mechanical Keyboard,Electronics,35,"3,50,000","1,22,50,000",Customer-073,Asia,Bengaluru,06:00 PM – 09:00 PM
+T000835,04-06-2025,PROD-007,USB-C Docking Station,Electronics,49,"2,50,000","1,22,50,000",Customer-009,Asia,Mumbai,06:00 PM – 09:00 PM
+T000110,16-01-2025,PROD-009,Adjustable Monitor Arm,Furniture,30,"1,80,000","54,00,000",Customer-147,Asia,Pune,12:00 PM – 03:00 PM
+T001165,12-08-2025,PROD-007,USB-C Docking Station,Electronics,11,"2,50,000","27,50,000",Customer-014,Asia,Mumbai,06:00 PM – 09:00 PM
+T001960,25-12-2025,PROD-004,Standing Desk Converter,Furniture,26,"5,00,000","1,30,00,000",Customer-053,Asia,Dubai,12:00 PM – 03:00 PM
+T001465,30-09-2025,PROD-003,27-inch 4K Monitor,Electronics,16,"12,00,000","1,92,00,000",Customer-083,Asia,Pune,06:00 PM – 09:00 PM
+T001729,17-11-2025,PROD-008,Executive Ballpoint Pen Box,Office Supplies,33,"1,20,000","39,60,000",Customer-144,Asia,Dubai,09:00 AM – 11:00 AM
+T001243,26-08-2025,PROD-001,Ergonomic Mesh Chair,Furniture,14,"4,50,000","63,00,000",Customer-102,Asia,Kolkata,12:00 PM – 03:00 PM
+T000212,06-02-2025,PROD-004,Standing Desk Converter,Furniture,15,"5,00,000","75,00,000",Customer-125,Asia,Mumbai,12:00 PM – 03:00 PM
+T001768,21-11-2025,PROD-002,Wireless Mechanical Keyboard,Electronics,49,"3,50,000","1,71,50,000",Customer-149,Asia,Kolkata,06:00 PM – 09:00 PM
+T001121,30-07-2025,PROD-005,Noise-Cancelling Headphones,Electronics,26,"9,50,000","2,47,00,000",Customer-109,Asia,Singapore,06:00 PM – 09:00 PM
+T000680,01-05-2025,PROD-010,Webcam 1080p HD,Electronics,38,"2,00,000","76,00,000",Customer-058,Asia,Kolkata,06:00 PM – 09:00 PM
+T001951,24-12-2025,PROD-001,Ergonomic Mesh Chair,Furniture,43,"4,50,000","1,93,50,000",Customer-035,Asia,Chennai,12:00 PM – 03:00 PM
+T001839,03-12-2025,PROD-009,Adjustable Monitor Arm,Furniture,39,"1,80,000","70,20,000",Customer-028,Asia,Kolkata,12:00 PM – 03:00 PM
+T000412,17-03-2025,PROD-004,Standing Desk Converter,Furniture,45,"5,00,000","2,25,00,000",Customer-105,Asia,Bengaluru,12:00 PM – 03:00 PM
+T001325,11-09-2025,PROD-001,Ergonomic Mesh Chair,Furniture,35,"4,50,000","1,57,50,000",Customer-061,Asia,Kolkata,12:00 PM – 03:00 PM
+T000783,21-05-2025,PROD-003,27-inch 4K Monitor,Electronics,410,"12,00,000","49,20,00,000",Customer-023,Asia,Hyderabad,06:00 PM – 09:00 PM
+T001346,15-09-2025,PROD-004,Standing Desk Converter,Furniture,470,"5,00,000","23,50,00,000",Customer-100,Asia,Chennai,12:00 PM – 03:00 PM
+T000875,13-06-2025,PROD-004,Standing Desk Converter,Furniture,370,"5,00,000","18,50,00,000",Customer-019,Asia,Dubai,12:00 PM – 03:00 PM
+T001653,04-11-2025,PROD-007,USB-C Docking Station,Electronics,8,"2,50,000","20,00,000",Customer-088,North America,New York,06:00 PM – 09:00 PM
+T001279,05-09-2025,PROD-009,Adjustable Monitor Arm,Furniture,39,"1,80,000","70,20,000",Customer-097,Europe,London,12:00 PM – 03:00 PM
+T000786,21-05-2025,PROD-003,27-inch 4K Monitor,Electronics,17,"12,00,000","2,04,00,000",Customer-028,Asia,Pune,06:00 PM – 09:00 PM
+T001819,01-12-2025,PROD-006,A4 Printer Paper (500 Sheets),Office Supplies,24,"25,000","6,00,000",Customer-016,Asia,Bengaluru,09:00 AM – 11:00 AM
+T001199,19-08-2025,PROD-003,27-inch 4K Monitor,Electronics,430,"12,00,000","51,60,00,000",Customer-116,Asia,Delhi,06:00 PM – 09:00 PM
+T000808,28-05-2025,PROD-003,27-inch 4K Monitor,Electronics,25,"12,00,000","3,00,00,000",Customer-114,Asia,Pune,06:00 PM – 09:00 PM
+T000713,12-05-2025,PROD-007,USB-C Docking Station,Electronics,28,"2,50,000","70,00,000",Customer-068,Asia,Tokyo,06:00 PM – 09:00 PM
+T001991,31-12-2025,PROD-007,USB-C Docking Station,Electronics,45,"2,50,000","1,12,50,000",Customer-130,Asia,Pune,06:00 PM – 09:00 PM
+T001660,04-11-2025,PROD-004,Standing Desk Converter,Furniture,9,"5,00,000","45,00,000",Customer-112,Asia,Pune,12:00 PM – 03:00 PM
+T001191,15-08-2025,PROD-003,27-inch 4K Monitor,Electronics,41,"12,00,000","4,92,00,000",Customer-144,Europe,London,06:00 PM – 09:00 PM
+T001226,25-08-2025,PROD-008,Executive Ballpoint Pen Box,Office Supplies,20,"1,20,000","24,00,000",Customer-002,Asia,Pune,09:00 AM – 11:00 AM
+T000603,21-04-2025,PROD-003,27-inch 4K Monitor,Electronics,29,"12,00,000","3,48,00,000",Customer-137,Asia,Kolkata,06:00 PM – 09:00 PM
+T000271,26-02-2025,PROD-003,27-inch 4K Monitor,Electronics,50,"12,00,000","6,00,00,000",Customer-039,Europe,London,06:00 PM – 09:00 PM
+T001385,22-09-2025,PROD-005,Noise-Cancelling Headphones,Electronics,23,"9,50,000","2,18,50,000",Customer-060,Asia,Mumbai,06:00 PM – 09:00 PM
+T000232,10-02-2025,PROD-002,Wireless Mechanical Keyboard,Electronics,290,"3,50,000","10,15,00,000",Customer-114,North America,New York,06:00 PM – 09:00 PM
+T000050,07-01-2025,PROD-008,Executive Ballpoint Pen Box,Office Supplies,210,"1,20,000","2,52,00,000",Customer-085,Asia,Delhi,09:00 AM – 11:00 AM
+T000463,28-03-2025,PROD-008,Executive Ballpoint Pen Box,Office Supplies,28,"1,20,000","33,60,000",Customer-025,Asia,Tokyo,09:00 AM – 11:00 AM
+T001106,25-07-2025,PROD-008,Executive Ballpoint Pen Box,Office Supplies,36,"1,20,000","43,20,000",Customer-109,Asia,Kolkata,09:00 AM – 11:00 AM
+T000856,09-06-2025,PROD-003,27-inch 4K Monitor,Electronics,490,"12,00,000","58,80,00,000",Customer-141,Europe,London,06:00 PM – 09:00 PM
+T000694,05-05-2025,PROD-003,27-inch 4K Monitor,Electronics,500,"12,00,000","60,00,00,000",Customer-102,Asia,Hyderabad,06:00 PM – 09:00 PM
+T001552,17-10-2025,PROD-001,Ergonomic Mesh Chair,Furniture,36,"4,50,000","1,62,00,000",Customer-012,Asia,Kolkata,12:00 PM – 03:00 PM
+T001873,09-12-2025,PROD-005,Noise-Cancelling Headphones,Electronics,29,"9,50,000","2,75,50,000",Customer-012,Asia,Delhi,06:00 PM – 09:00 PM
+T000527,08-04-2025,PROD-007,USB-C Docking Station,Electronics,22,"2,50,000","55,00,000",Customer-020,Asia,Delhi,06:00 PM – 09:00 PM
+T000174,28-01-2025,PROD-009,Adjustable Monitor Arm,Furniture,11,"1,80,000","19,80,000",Customer-105,Asia,Hyderabad,12:00 PM – 03:00 PM
+T000721,12-05-2025,PROD-009,Adjustable Monitor Arm,Furniture,490,"1,80,000","8,82,00,000",Customer-077,Europe,London,12:00 PM – 03:00 PM
+T000415,24-03-2025,PROD-003,27-inch 4K Monitor,Electronics,45,"12,00,000","5,40,00,000",Customer-026,Asia,Bengaluru,06:00 PM – 09:00 PM
+T000238,11-02-2025,PROD-005,Noise-Cancelling Headphones,Electronics,480,"9,50,000","45,60,00,000",Customer-041,Asia,Bengaluru,06:00 PM – 09:00 PM
+T001473,01-10-2025,PROD-002,Wireless Mechanical Keyboard,Electronics,14,"3,50,000","49,00,000",Customer-117,Asia,Dubai,06:00 PM – 09:00 PM
+T001336,12-09-2025,PROD-005,Noise-Cancelling Headphones,Electronics,220,"9,50,000","20,90,00,000",Customer-016,Asia,Singapore,06:00 PM – 09:00 PM
+T001064,17-07-2025,PROD-010,Webcam 1080p HD,Electronics,32,"2,00,000","64,00,000",Customer-057,Asia,Hyderabad,06:00 PM – 09:00 PM
+T000024,03-01-2025,PROD-008,Executive Ballpoint Pen Box,Office Supplies,36,"1,20,000","43,20,000",Customer-022,Asia,Dubai,09:00 AM – 11:00 AM
+T001767,21-11-2025,PROD-004,Standing Desk Converter,Furniture,17,"5,00,000","85,00,000",Customer-053,Asia,Bengaluru,12:00 PM – 03:00 PM
+T000064,08-01-2025,PROD-007,USB-C Docking Station,Electronics,380,"2,50,000","9,50,00,000",Customer-107,Asia,Pune,06:00 PM – 09:00 PM
+T000290,27-02-2025,PROD-004,Standing Desk Converter,Furniture,18,"5,00,000","90,00,000",Customer-077,Europe,London,12:00 PM – 03:00 PM
+T000189,05-02-2025,PROD-004,Standing Desk Converter,Furniture,7,"5,00,000","35,00,000",Customer-052,Asia,Hyderabad,12:00 PM – 03:00 PM
+T000702,05-05-2025,PROD-007,USB-C Docking Station,Electronics,21,"2,50,000","52,50,000",Customer-055,Asia,Mumbai,06:00 PM – 09:00 PM
+T001815,01-12-2025,PROD-010,Webcam 1080p HD,Electronics,17,"2,00,000","34,00,000",Customer-070,Asia,Hyderabad,06:00 PM – 09:00 PM
+T001138,06-08-2025,PROD-007,USB-C Docking Station,Electronics,28,"2,50,000","70,00,000",Customer-095,Asia,Singapore,06:00 PM – 09:00 PM
+T000355,10-03-2025,PROD-002,Wireless Mechanical Keyboard,Electronics,370,"3,50,000","12,95,00,000",Customer-096,Asia,Bengaluru,06:00 PM – 09:00 PM
+T000417,24-03-2025,PROD-008,Executive Ballpoint Pen Box,Office Supplies,50,"1,20,000","60,00,000",Customer-021,Asia,Dubai,09:00 AM – 11:00 AM
+T001246,26-08-2025,PROD-002,Wireless Mechanical Keyboard,Electronics,24,"3,50,000","84,00,000",Customer-102,North America,New York,06:00 PM – 09:00 PM
+T000931,25-06-2025,PROD-006,A4 Printer Paper (500 Sheets),Office Supplies,17,"25,000","4,25,000",Customer-116,Asia,Dubai,09:00 AM – 11:00 AM
+T000197,05-02-2025,PROD-008,Executive Ballpoint Pen Box,Office Supplies,11,"1,20,000","13,20,000",Customer-145,Europe,London,09:00 AM – 11:00 AM
+T000580,17-04-2025,PROD-008,Executive Ballpoint Pen Box,Office Supplies,39,"1,20,000","46,80,000",Customer-087,Asia,Chennai,09:00 AM – 11:00 AM
+T001135,05-08-2025,PROD-007,USB-C Docking Station,Electronics,25,"2,50,000","62,50,000",Customer-047,Asia,Singapore,06:00 PM – 09:00 PM
+T001814,01-12-2025,PROD-003,27-inch 4K Monitor,Electronics,190,"12,00,000","22,80,00,000",Customer-023,Asia,Dubai,06:00 PM – 09:00 PM
+T001935,23-12-2025,PROD-001,Ergonomic Mesh Chair,Furniture,7,"4,50,000","31,50,000",Customer-095,Asia,Hyderabad,12:00 PM – 03:00 PM
+T000434,25-03-2025,PROD-001,Ergonomic Mesh Chair,Furniture,10,"4,50,000","45,00,000",Customer-052,North America,New York,12:00 PM – 03:00 PM
+T000101,15-01-2025,PROD-002,Wireless Mechanical Keyboard,Electronics,44,"3,50,000","1,54,00,000",Customer-076,Asia,Delhi,06:00 PM – 09:00 PM
+T001655,04-11-2025,PROD-006,A4 Printer Paper (500 Sheets),Office Supplies,100,"25,000","25,00,000",Customer-029,Asia,Delhi,09:00 AM – 11:00 AM
+T000395,13-03-2025,PROD-010,Webcam 1080p HD,Electronics,16,"2,00,000","32,00,000",Customer-022,Asia,Dubai,06:00 PM – 09:00 PM
+T001939,23-12-2025,PROD-002,Wireless Mechanical Keyboard,Electronics,42,"3,50,000","1,47,00,000",Customer-147,Asia,Tokyo,06:00 PM – 09:00 PM
+T000221,10-02-2025,PROD-008,Executive Ballpoint Pen Box,Office Supplies,20,"1,20,000","24,00,000",Customer-051,Asia,Pune,09:00 AM – 11:00 AM
+T001676,06-11-2025,PROD-006,A4 Printer Paper (500 Sheets),Office Supplies,10,"25,000","2,50,000",Customer-134,Asia,Bengaluru,09:00 AM – 11:00 AM
+T001498,08-10-2025,PROD-006,A4 Printer Paper (500 Sheets),Office Supplies,25,"25,000","6,25,000",Customer-045,Asia,Kolkata,09:00 AM – 11:00 AM
+T001785,25-11-2025,PROD-006,A4 Printer Paper (500 Sheets),Office Supplies,37,"25,000","9,25,000",Customer-121,Europe,London,09:00 AM – 11:00 AM
+T000345,06-03-2025,PROD-001,Ergonomic Mesh Chair,Furniture,6,"4,50,000","27,00,000",Customer-081,Asia,Bengaluru,12:00 PM – 03:00 PM
+T001028,11-07-2025,PROD-001,Ergonomic Mesh Chair,Furniture,460,"4,50,000","20,70,00,000",Customer-076,Asia,Chennai,12:00 PM – 03:00 PM
+T000889,16-06-2025,PROD-007,USB-C Docking Station,Electronics,27,"2,50,000","67,50,000",Customer-104,Asia,Bengaluru,06:00 PM – 09:00 PM
+T001351,15-09-2025,PROD-010,Webcam 1080p HD,Electronics,8,"2,00,000","16,00,000",Customer-001,Asia,Delhi,06:00 PM – 09:00 PM
+T000553,11-04-2025,PROD-005,Noise-Cancelling Headphones,Electronics,19,"9,50,000","1,80,50,000",Customer-063,Asia,Mumbai,06:00 PM – 09:00 PM
+T000744,15-05-2025,PROD-005,Noise-Cancelling Headphones,Electronics,39,"9,50,000","3,70,50,000",Customer-016,Asia,Kolkata,06:00 PM – 09:00 PM
+T001542,15-10-2025,PROD-006,A4 Printer Paper (500 Sheets),Office Supplies,15,"25,000","3,75,000",Customer-031,Asia,Mumbai,09:00 AM – 11:00 AM
+T000539,09-04-2025,PROD-006,A4 Printer Paper (500 Sheets),Office Supplies,6,"25,000","1,50,000",Customer-060,Asia,Hyderabad,09:00 AM – 11:00 AM
+T000907,17-06-2025,PROD-004,Standing Desk Converter,Furniture,22,"5,00,000","1,10,00,000",Customer-141,Asia,Delhi,12:00 PM – 03:00 PM
+T001395,22-09-2025,PROD-010,Webcam 1080p HD,Electronics,41,"2,00,000","82,00,000",Customer-058,Asia,Singapore,06:00 PM – 09:00 PM
+T000116,17-01-2025,PROD-002,Wireless Mechanical Keyboard,Electronics,47,"3,50,000","1,64,50,000",Customer-005,Asia,Kolkata,06:00 PM – 09:00 PM
+T000830,04-06-2025,PROD-009,Adjustable Monitor Arm,Furniture,9,"1,80,000","16,20,000",Customer-115,Asia,Hyderabad,12:00 PM – 03:00 PM
+T001938,23-12-2025,PROD-002,Wireless Mechanical Keyboard,Electronics,26,"3,50,000","91,00,000",Customer-135,Europe,London,06:00 PM – 09:00 PM
+T000809,28-05-2025,PROD-006,A4 Printer Paper (500 Sheets),Office Supplies,23,"25,000","5,75,000",Customer-093,Asia,Bengaluru,09:00 AM – 11:00 AM
+T001311,10-09-2025,PROD-009,Adjustable Monitor Arm,Furniture,40,"1,80,000","72,00,000",Customer-016,Asia,Singapore,12:00 PM – 03:00 PM
+T001005,09-07-2025,PROD-002,Wireless Mechanical Keyboard,Electronics,48,"3,50,000","1,68,00,000",Customer-137,North America,New York,06:00 PM – 09:00 PM
+T000306,28-02-2025,PROD-005,Noise-Cancelling Headphones,Electronics,16,"9,50,000","1,52,00,000",Customer-056,Asia,Bengaluru,06:00 PM – 09:00 PM
+T001101,25-07-2025,PROD-004,Standing Desk Converter,Furniture,14,"5,00,000","70,00,000",Customer-058,Asia,Pune,12:00 PM – 03:00 PM
+T000480,01-04-2025,PROD-002,Wireless Mechanical Keyboard,Electronics,47,"3,50,000","1,64,50,000",Customer-122,Asia,Singapore,06:00 PM – 09:00 PM
+T001424,24-09-2025,PROD-002,Wireless Mechanical Keyboard,Electronics,210,"3,50,000","7,35,00,000",Customer-047,Asia,Delhi,06:00 PM – 09:00 PM
+T001076,23-07-2025,PROD-004,Standing Desk Converter,Furniture,8,"5,00,000","40,00,000",Customer-001,Asia,Chennai,12:00 PM – 03:00 PM
+T000571,16-04-2025,PROD-007,USB-C Docking Station,Electronics,49,"2,50,000","1,22,50,000",Customer-146,Asia,Pune,06:00 PM – 09:00 PM
+T000619,22-04-2025,PROD-001,Ergonomic Mesh Chair,Furniture,48,"4,50,000","2,16,00,000",Customer-042,Asia,Kolkata,12:00 PM – 03:00 PM
+T001898,16-12-2025,PROD-005,Noise-Cancelling Headphones,Electronics,10,"9,50,000","95,00,000",Customer-086,North America,New York,06:00 PM – 09:00 PM
+T001266,29-08-2025,PROD-004,Standing Desk Converter,Furniture,8,"5,00,000","40,00,000",Customer-130,Asia,Mumbai,12:00 PM – 03:00 PM
+T000079,10-01-2025,PROD-003,27-inch 4K Monitor,Electronics,5,"12,00,000","60,00,000",Customer-143,Europe,London,06:00 PM – 09:00 PM
+T001912,19-12-2025,PROD-008,Executive Ballpoint Pen Box,Office Supplies,31,"1,20,000","37,20,000",Customer-114,Asia,Dubai,09:00 AM – 11:00 AM
+T000033,06-01-2025,PROD-002,Wireless Mechanical Keyboard,Electronics,16,"3,50,000","56,00,000",Customer-105,Asia,Dubai,06:00 PM – 09:00 PM
+T001538,14-10-2025,PROD-003,27-inch 4K Monitor,Electronics,39,"12,00,000","4,68,00,000",Customer-039,Asia,Bengaluru,06:00 PM – 09:00 PM
+T001034,11-07-2025,PROD-005,Noise-Cancelling Headphones,Electronics,34,"9,50,000","3,23,00,000",Customer-099,Asia,Singapore,06:00 PM – 09:00 PM
+T001563,20-10-2025,PROD-002,Wireless Mechanical Keyboard,Electronics,21,"3,50,000","73,50,000",Customer-067,Asia,Tokyo,06:00 PM – 09:00 PM
+T000352,10-03-2025,PROD-006,A4 Printer Paper (500 Sheets),Office Supplies,49,"25,000","12,25,000",Customer-082,Asia,Hyderabad,09:00 AM – 11:00 AM
+T000164,28-01-2025,PROD-006,A4 Printer Paper (500 Sheets),Office Supplies,26,"25,000","6,50,000",Customer-101,Asia,Hyderabad,09:00 AM – 11:00 AM
+T000204,06-02-2025,PROD-003,27-inch 4K Monitor,Electronics,32,"12,00,000","3,84,00,000",Customer-075,Asia,Tokyo,06:00 PM – 09:00 PM
+T001054,16-07-2025,PROD-005,Noise-Cancelling Headphones,Electronics,100,"9,50,000","9,50,00,000",Customer-054,Asia,Mumbai,06:00 PM – 09:00 PM
+T001365,18-09-2025,PROD-002,Wireless Mechanical Keyboard,Electronics,26,"3,50,000","91,00,000",Customer-144,North America,New York,06:00 PM – 09:00 PM
+T001967,25-12-2025,PROD-003,27-inch 4K Monitor,Electronics,18,"12,00,000","2,16,00,000",Customer-006,Asia,Hyderabad,06:00 PM – 09:00 PM
+T000496,03-04-2025,PROD-002,Wireless Mechanical Keyboard,Electronics,15,"3,50,000","52,50,000",Customer-061,Asia,Mumbai,06:00 PM – 09:00 PM
+T001625,30-10-2025,PROD-004,Standing Desk Converter,Furniture,11,"5,00,000","55,00,000",Customer-095,Asia,Pune,12:00 PM – 03:00 PM
+T001966,25-12-2025,PROD-005,Noise-Cancelling Headphones,Electronics,11,"9,50,000","1,04,50,000",Customer-039,Asia,Bengaluru,06:00 PM – 09:00 PM
+T001963,25-12-2025,PROD-010,Webcam 1080p HD,Electronics,21,"2,00,000","42,00,000",Customer-036,Europe,London,06:00 PM – 09:00 PM
+T000611,22-04-2025,PROD-004,Standing Desk Converter,Furniture,27,"5,00,000","1,35,00,000",Customer-132,Asia,Delhi,12:00 PM – 03:00 PM
+T000433,25-03-2025,PROD-006,A4 Printer Paper (500 Sheets),Office Supplies,5,"25,000","1,25,000",Customer-109,North America,New York,09:00 AM – 11:00 AM
+T001492,07-10-2025,PROD-009,Adjustable Monitor Arm,Furniture,50,"1,80,000","90,00,000",Customer-007,North America,New York,12:00 PM – 03:00 PM
+T000219,06-02-2025,PROD-004,Standing Desk Converter,Furniture,38,"5,00,000","1,90,00,000",Customer-027,Asia,Singapore,12:00 PM – 03:00 PM
+T001931,22-12-2025,PROD-001,Ergonomic Mesh Chair,Furniture,18,"4,50,000","81,00,000",Customer-097,Asia,Kolkata,12:00 PM – 03:00 PM
+T001466,30-09-2025,PROD-005,Noise-Cancelling Headphones,Electronics,140,"9,50,000","13,30,00,000",Customer-047,Europe,London,06:00 PM – 09:00 PM
+T000631,23-04-2025,PROD-007,USB-C Docking Station,Electronics,16,"2,50,000","40,00,000",Customer-118,Asia,Delhi,06:00 PM – 09:00 PM
+T001382,19-09-2025,PROD-008,Executive Ballpoint Pen Box,Office Supplies,27,"1,20,000","32,40,000",Customer-139,Asia,Bengaluru,09:00 AM – 11:00 AM
+T001302,09-09-2025,PROD-004,Standing Desk Converter,Furniture,300,"5,00,000","15,00,00,000",Customer-131,Asia,Delhi,12:00 PM – 03:00 PM
+T000060,08-01-2025,PROD-002,Wireless Mechanical Keyboard,Electronics,39,"3,50,000","1,36,50,000",Customer-118,North America,New York,06:00 PM – 09:00 PM
+T000299,28-02-2025,PROD-001,Ergonomic Mesh Chair,Furniture,12,"4,50,000","54,00,000",Customer-001,Asia,Chennai,12:00 PM – 03:00 PM
+T001711,13-11-2025,PROD-002,Wireless Mechanical Keyboard,Electronics,39,"3,50,000","1,36,50,000",Customer-101,Asia,Dubai,06:00 PM – 09:00 PM
+T000074,09-01-2025,PROD-010,Webcam 1080p HD,Electronics,6,"2,00,000","12,00,000",Customer-125,Asia,Kolkata,06:00 PM – 09:00 PM
+T000163,28-01-2025,PROD-005,Noise-Cancelling Headphones,Electronics,8,"9,50,000","76,00,000",Customer-073,Asia,Singapore,06:00 PM – 09:00 PM
+T001275,04-09-2025,PROD-008,Executive Ballpoint Pen Box,Office Supplies,18,"1,20,000","21,60,000",Customer-102,North America,New York,09:00 AM – 11:00 AM
+T001594,22-10-2025,PROD-002,Wireless Mechanical Keyboard,Electronics,5,"3,50,000","17,50,000",Customer-128,Asia,Chennai,06:00 PM – 09:00 PM
+T001434,26-09-2025,PROD-007,USB-C Docking Station,Electronics,27,"2,50,000","67,50,000",Customer-096,Europe,London,06:00 PM – 09:00 PM
+T001613,29-10-2025,PROD-009,Adjustable Monitor Arm,Furniture,14,"1,80,000","25,20,000",Customer-042,Asia,Dubai,12:00 PM – 03:00 PM
+T000592,21-04-2025,PROD-009,Adjustable Monitor Arm,Furniture,29,"1,80,000","52,20,000",Customer-128,Asia,Dubai,12:00 PM – 03:00 PM
+T000317,04-03-2025,PROD-005,Noise-Cancelling Headphones,Electronics,160,"9,50,000","15,20,00,000",Customer-131,Europe,London,06:00 PM – 09:00 PM
+T000046,07-01-2025,PROD-008,Executive Ballpoint Pen Box,Office Supplies,49,"1,20,000","58,80,000",Customer-138,North America,New York,09:00 AM – 11:00 AM
+T001720,13-11-2025,PROD-003,27-inch 4K Monitor,Electronics,50,"12,00,000","6,00,00,000",Customer-090,North America,New York,06:00 PM – 09:00 PM
+T001832,03-12-2025,PROD-007,USB-C Docking Station,Electronics,19,"2,50,000","47,50,000",Customer-031,Asia,Pune,06:00 PM – 09:00 PM
+T000428,25-03-2025,PROD-006,A4 Printer Paper (500 Sheets),Office Supplies,160,"25,000","40,00,000",Customer-031,North America,New York,09:00 AM – 11:00 AM
+T000582,17-04-2025,PROD-005,Noise-Cancelling Headphones,Electronics,8,"9,50,000","76,00,000",Customer-033,Asia,Chennai,06:00 PM – 09:00 PM
+T000077,09-01-2025,PROD-008,Executive Ballpoint Pen Box,Office Supplies,280,"1,20,000","3,36,00,000",Customer-148,Asia,Hyderabad,09:00 AM – 11:00 AM
+T001917,19-12-2025,PROD-007,USB-C Docking Station,Electronics,26,"2,50,000","65,00,000",Customer-032,Asia,Delhi,06:00 PM – 09:00 PM
+T001415,24-09-2025,PROD-009,Adjustable Monitor Arm,Furniture,45,"1,80,000","81,00,000",Customer-054,Asia,Bengaluru,12:00 PM – 03:00 PM
+T000781,21-05-2025,PROD-003,27-inch 4K Monitor,Electronics,380,"12,00,000","45,60,00,000",Customer-038,Asia,Dubai,06:00 PM – 09:00 PM
+T001920,22-12-2025,PROD-006,A4 Printer Paper (500 Sheets),Office Supplies,110,"25,000","27,50,000",Customer-149,Europe,London,09:00 AM – 11:00 AM
+T001174,13-08-2025,PROD-001,Ergonomic Mesh Chair,Furniture,45,"4,50,000","2,02,50,000",Customer-131,North America,New York,12:00 PM – 03:00 PM
+T001320,11-09-2025,PROD-001,Ergonomic Mesh Chair,Furniture,38,"4,50,000","1,71,00,000",Customer-005,Asia,Tokyo,12:00 PM – 03:00 PM
+T000938,25-06-2025,PROD-009,Adjustable Monitor Arm,Furniture,26,"1,80,000","46,80,000",Customer-057,Asia,Hyderabad,12:00 PM – 03:00 PM
+T000031,06-01-2025,PROD-006,A4 Printer Paper (500 Sheets),Office Supplies,26,"25,000","6,50,000",Customer-069,Asia,Kolkata,09:00 AM – 11:00 AM
+T001092,25-07-2025,PROD-001,Ergonomic Mesh Chair,Furniture,46,"4,50,000","2,07,00,000",Customer-088,Europe,London,12:00 PM – 03:00 PM
+T001616,29-10-2025,PROD-006,A4 Printer Paper (500 Sheets),Office Supplies,48,"25,000","12,00,000",Customer-021,Asia,Chennai,09:00 AM – 11:00 AM
+T001230,25-08-2025,PROD-004,Standing Desk Converter,Furniture,490,"5,00,000","24,50,00,000",Customer-038,Asia,Mumbai,12:00 PM – 03:00 PM
+T000975,02-07-2025,PROD-009,Adjustable Monitor Arm,Furniture,26,"1,80,000","46,80,000",Customer-049,Asia,Bengaluru,12:00 PM – 03:00 PM
+T001085,24-07-2025,PROD-002,Wireless Mechanical Keyboard,Electronics,49,"3,50,000","1,71,50,000",Customer-013,Asia,Delhi,06:00 PM – 09:00 PM
+T000515,07-04-2025,PROD-004,Standing Desk Converter,Furniture,100,"5,00,000","5,00,00,000",Customer-147,Asia,Singapore,12:00 PM – 03:00 PM
+T001551,17-10-2025,PROD-005,Noise-Cancelling Headphones,Electronics,18,"9,50,000","1,71,00,000",Customer-097,Asia,Kolkata,06:00 PM – 09:00 PM
+T001568,20-10-2025,PROD-001,Ergonomic Mesh Chair,Furniture,29,"4,50,000","1,30,50,000",Customer-031,Europe,London,12:00 PM – 03:00 PM
+T001811,01-12-2025,PROD-005,Noise-Cancelling Headphones,Electronics,80,"9,50,000","7,60,00,000",Customer-066,Asia,Bengaluru,06:00 PM – 09:00 PM
+T001574,21-10-2025,PROD-005,Noise-Cancelling Headphones,Electronics,26,"9,50,000","2,47,00,000",Customer-044,Asia,Bengaluru,06:00 PM – 09:00 PM
+T000045,07-01-2025,PROD-002,Wireless Mechanical Keyboard,Electronics,40,"3,50,000","1,40,00,000",Customer-114,North America,New York,06:00 PM – 09:00 PM
+T001687,07-11-2025,PROD-006,A4 Printer Paper (500 Sheets),Office Supplies,50,"25,000","12,50,000",Customer-140,Asia,Singapore,09:00 AM – 11:00 AM
+T000169,28-01-2025,PROD-005,Noise-Cancelling Headphones,Electronics,36,"9,50,000","3,42,00,000",Customer-010,Asia,Mumbai,06:00 PM – 09:00 PM
+T000304,28-02-2025,PROD-010,Webcam 1080p HD,Electronics,50,"2,00,000","1,00,00,000",Customer-053,North America,New York,06:00 PM – 09:00 PM
+T000991,04-07-2025,PROD-007,USB-C Docking Station,Electronics,34,"2,50,000","85,00,000",Customer-096,Asia,Hyderabad,06:00 PM – 09:00 PM
+T000556,15-04-2025,PROD-006,A4 Printer Paper (500 Sheets),Office Supplies,43,"25,000","10,75,000",Customer-012,North America,New York,09:00 AM – 11:00 AM
+T001925,22-12-2025,PROD-010,Webcam 1080p HD,Electronics,43,"2,00,000","86,00,000",Customer-056,North America,New York,06:00 PM – 09:00 PM
+T000608,22-04-2025,PROD-002,Wireless Mechanical Keyboard,Electronics,25,"3,50,000","87,50,000",Customer-141,Asia,Singapore,06:00 PM – 09:00 PM
+T001619,30-10-2025,PROD-001,Ergonomic Mesh Chair,Furniture,350,"4,50,000","15,75,00,000",Customer-048,Asia,Mumbai,12:00 PM – 03:00 PM
+T000758,16-05-2025,PROD-007,USB-C Docking Station,Electronics,490,"2,50,000","12,25,00,000",Customer-097,North America,New York,06:00 PM – 09:00 PM
+T000439,26-03-2025,PROD-004,Standing Desk Converter,Furniture,14,"5,00,000","70,00,000",Customer-063,Asia,Bengaluru,12:00 PM – 03:00 PM
+T000583,17-04-2025,PROD-005,Noise-Cancelling Headphones,Electronics,310,"9,50,000","29,45,00,000",Customer-030,Asia,Kolkata,06:00 PM – 09:00 PM
+T001519,10-10-2025,PROD-001,Ergonomic Mesh Chair,Furniture,47,"4,50,000","2,11,50,000",Customer-004,Asia,Delhi,12:00 PM – 03:00 PM
+T000528,08-04-2025,PROD-004,Standing Desk Converter,Furniture,7,"5,00,000","35,00,000",Customer-031,Asia,Singapore,12:00 PM – 03:00 PM
+T000343,06-03-2025,PROD-008,Executive Ballpoint Pen Box,Office Supplies,27,"1,20,000","32,40,000",Customer-069,Asia,Bengaluru,09:00 AM – 11:00 AM
+T001737,18-11-2025,PROD-009,Adjustable Monitor Arm,Furniture,28,"1,80,000","50,40,000",Customer-077,Asia,Tokyo,12:00 PM – 03:00 PM
+T000368,11-03-2025,PROD-001,Ergonomic Mesh Chair,Furniture,34,"4,50,000","1,53,00,000",Customer-043,Asia,Bengaluru,12:00 PM – 03:00 PM
+T000186,30-01-2025,PROD-010,Webcam 1080p HD,Electronics,13,"2,00,000","26,00,000",Customer-046,Europe,London,06:00 PM – 09:00 PM
+T001117,28-07-2025,PROD-005,Noise-Cancelling Headphones,Electronics,130,"9,50,000","12,35,00,000",Customer-007,Asia,Hyderabad,06:00 PM – 09:00 PM
+T001755,21-11-2025,PROD-003,27-inch 4K Monitor,Electronics,190,"12,00,000","22,80,00,000",Customer-136,Asia,Hyderabad,06:00 PM – 09:00 PM
+T001426,25-09-2025,PROD-003,27-inch 4K Monitor,Electronics,33,"12,00,000","3,96,00,000",Customer-027,Asia,Kolkata,06:00 PM – 09:00 PM
+T000301,28-02-2025,PROD-007,USB-C Docking Station,Electronics,34,"2,50,000","85,00,000",Customer-009,Asia,Singapore,06:00 PM – 09:00 PM
+T001904,17-12-2025,PROD-007,USB-C Docking Station,Electronics,46,"2,50,000","1,15,00,000",Customer-073,Asia,Delhi,06:00 PM – 09:00 PM
+T000833,04-06-2025,PROD-008,Executive Ballpoint Pen Box,Office Supplies,46,"1,20,000","55,20,000",Customer-121,Asia,Pune,09:00 AM – 11:00 AM
+T000544,11-04-2025,PROD-005,Noise-Cancelling Headphones,Electronics,80,"9,50,000","7,60,00,000",Customer-012,Asia,Chennai,06:00 PM – 09:00 PM
+T001601,24-10-2025,PROD-007,USB-C Docking Station,Electronics,20,"2,50,000","50,00,000",Customer-040,Europe,London,06:00 PM – 09:00 PM
+T000351,10-03-2025,PROD-010,Webcam 1080p HD,Electronics,36,"2,00,000","72,00,000",Customer-068,Asia,Hyderabad,06:00 PM – 09:00 PM
+T001933,22-12-2025,PROD-004,Standing Desk Converter,Furniture,33,"5,00,000","1,65,00,000",Customer-147,Asia,Bengaluru,12:00 PM – 03:00 PM
+T001511,10-10-2025,PROD-004,Standing Desk Converter,Furniture,9,"5,00,000","45,00,000",Customer-102,Asia,Singapore,12:00 PM – 03:00 PM
+T000979,02-07-2025,PROD-001,Ergonomic Mesh Chair,Furniture,160,"4,50,000","7,20,00,000",Customer-057,Asia,Kolkata,12:00 PM – 03:00 PM
+T000176,30-01-2025,PROD-006,A4 Printer Paper (500 Sheets),Office Supplies,27,"25,000","6,75,000",Customer-111,Asia,Pune,09:00 AM – 11:00 AM
+T000483,01-04-2025,PROD-007,USB-C Docking Station,Electronics,8,"2,50,000","20,00,000",Customer-086,Asia,Pune,06:00 PM – 09:00 PM
+T001413,24-09-2025,PROD-007,USB-C Docking Station,Electronics,47,"2,50,000","1,17,50,000",Customer-118,North America,New York,06:00 PM – 09:00 PM
+T001611,29-10-2025,PROD-004,Standing Desk Converter,Furniture,9,"5,00,000","45,00,000",Customer-059,Asia,Singapore,12:00 PM – 03:00 PM
+T000124,20-01-2025,PROD-009,Adjustable Monitor Arm,Furniture,13,"1,80,000","23,40,000",Customer-118,Asia,Dubai,12:00 PM – 03:00 PM
+T000600,21-04-2025,PROD-006,A4 Printer Paper (500 Sheets),Office Supplies,19,"25,000","4,75,000",Customer-140,Asia,Singapore,09:00 AM – 11:00 AM
+T001795,26-11-2025,PROD-001,Ergonomic Mesh Chair,Furniture,26,"4,50,000","1,17,00,000",Customer-099,Asia,Singapore,12:00 PM – 03:00 PM
+T001746,19-11-2025,PROD-007,USB-C Docking Station,Electronics,16,"2,50,000","40,00,000",Customer-068,Asia,Chennai,06:00 PM – 09:00 PM
+T001379,19-09-2025,PROD-004,Standing Desk Converter,Furniture,360,"5,00,000","18,00,00,000",Customer-116,Asia,Singapore,12:00 PM – 03:00 PM
+T001186,14-08-2025,PROD-009,Adjustable Monitor Arm,Furniture,43,"1,80,000","77,40,000",Customer-099,Asia,Dubai,12:00 PM – 03:00 PM
+T000486,01-04-2025,PROD-009,Adjustable Monitor Arm,Furniture,37,"1,80,000","66,60,000",Customer-107,Asia,Kolkata,12:00 PM – 03:00 PM
+T000332,05-03-2025,PROD-002,Wireless Mechanical Keyboard,Electronics,5,"3,50,000","17,50,000",Customer-107,Europe,London,06:00 PM – 09:00 PM
+T000789,22-05-2025,PROD-001,Ergonomic Mesh Chair,Furniture,8,"4,50,000","36,00,000",Customer-146,Asia,Pune,12:00 PM – 03:00 PM
+T000195,05-02-2025,PROD-001,Ergonomic Mesh Chair,Furniture,5,"4,50,000","22,50,000",Customer-071,Asia,Dubai,12:00 PM – 03:00 PM
+T000638,24-04-2025,PROD-009,Adjustable Monitor Arm,Furniture,35,"1,80,000","63,00,000",Customer-119,Asia,Kolkata,12:00 PM – 03:00 PM
+T000472,31-03-2025,PROD-008,Executive Ballpoint Pen Box,Office Supplies,50,"1,20,000","60,00,000",Customer-106,Asia,Dubai,09:00 AM – 11:00 AM
+T001714,13-11-2025,PROD-006,A4 Printer Paper (500 Sheets),Office Supplies,48,"25,000","12,00,000",Customer-059,North America,New York,09:00 AM – 11:00 AM
+T000323,05-03-2025,PROD-010,Webcam 1080p HD,Electronics,19,"2,00,000","38,00,000",Customer-102,North America,New York,06:00 PM – 09:00 PM
+T001197,15-08-2025,PROD-005,Noise-Cancelling Headphones,Electronics,39,"9,50,000","3,70,50,000",Customer-067,Asia,Kolkata,06:00 PM – 09:00 PM
+T000267,26-02-2025,PROD-004,Standing Desk Converter,Furniture,34,"5,00,000","1,70,00,000",Customer-052,Asia,Kolkata,12:00 PM – 03:00 PM
+T001544,15-10-2025,PROD-005,Noise-Cancelling Headphones,Electronics,10,"9,50,000","95,00,000",Customer-118,Europe,London,06:00 PM – 09:00 PM
+T001804,27-11-2025,PROD-008,Executive Ballpoint Pen Box,Office Supplies,13,"1,20,000","15,60,000",Customer-078,Asia,Pune,09:00 AM – 11:00 AM
+T000068,09-01-2025,PROD-003,27-inch 4K Monitor,Electronics,38,"12,00,000","4,56,00,000",Customer-040,Asia,Singapore,06:00 PM – 09:00 PM
+T001738,18-11-2025,PROD-010,Webcam 1080p HD,Electronics,43,"2,00,000","86,00,000",Customer-047,Asia,Chennai,06:00 PM – 09:00 PM
+T001593,22-10-2025,PROD-002,Wireless Mechanical Keyboard,Electronics,5,"3,50,000","17,50,000",Customer-147,North America,New York,06:00 PM – 09:00 PM
+T001564,20-10-2025,PROD-009,Adjustable Monitor Arm,Furniture,18,"1,80,000","32,40,000",Customer-014,Asia,Singapore,12:00 PM – 03:00 PM
+T000481,01-04-2025,PROD-009,Adjustable Monitor Arm,Furniture,27,"1,80,000","48,60,000",Customer-039,Asia,Delhi,12:00 PM – 03:00 PM
+T001757,21-11-2025,PROD-007,USB-C Docking Station,Electronics,46,"2,50,000","1,15,00,000",Customer-148,Asia,Pune,06:00 PM – 09:00 PM
+T001913,19-12-2025,PROD-006,A4 Printer Paper (500 Sheets),Office Supplies,16,"25,000","4,00,000",Customer-126,Asia,Delhi,09:00 AM – 11:00 AM
+T001441,26-09-2025,PROD-003,27-inch 4K Monitor,Electronics,28,"12,00,000","3,36,00,000",Customer-093,Asia,Bengaluru,06:00 PM – 09:00 PM
+T001461,30-09-2025,PROD-006,A4 Printer Paper (500 Sheets),Office Supplies,19,"25,000","4,75,000",Customer-085,Asia,Kolkata,09:00 AM – 11:00 AM
+T000888,16-06-2025,PROD-007,USB-C Docking Station,Electronics,18,"2,50,000","45,00,000",Customer-113,Asia,Tokyo,06:00 PM – 09:00 PM
+T000423,25-03-2025,PROD-002,Wireless Mechanical Keyboard,Electronics,7,"3,50,000","24,50,000",Customer-068,Asia,Chennai,06:00 PM – 09:00 PM
+T001675,06-11-2025,PROD-005,Noise-Cancelling Headphones,Electronics,11,"9,50,000","1,04,50,000",Customer-008,North America,New York,06:00 PM – 09:00 PM
+T001450,29-09-2025,PROD-005,Noise-Cancelling Headphones,Electronics,10,"9,50,000","95,00,000",Customer-102,Asia,Mumbai,06:00 PM – 09:00 PM
+T000765,19-05-2025,PROD-005,Noise-Cancelling Headphones,Electronics,38,"9,50,000","3,61,00,000",Customer-105,Asia,Tokyo,06:00 PM – 09:00 PM
+T000520,07-04-2025,PROD-006,A4 Printer Paper (500 Sheets),Office Supplies,9,"25,000","2,25,000",Customer-022,Asia,Delhi,09:00 AM – 11:00 AM
+T001432,25-09-2025,PROD-003,27-inch 4K Monitor,Electronics,34,"12,00,000","4,08,00,000",Customer-040,Asia,Singapore,06:00 PM – 09:00 PM
+T000614,22-04-2025,PROD-009,Adjustable Monitor Arm,Furniture,24,"1,80,000","43,20,000",Customer-093,Asia,Pune,12:00 PM – 03:00 PM
+T001531,13-10-2025,PROD-007,USB-C Docking Station,Electronics,12,"2,50,000","30,00,000",Customer-076,Asia,Dubai,06:00 PM – 09:00 PM
+T001783,25-11-2025,PROD-007,USB-C Docking Station,Electronics,22,"2,50,000","55,00,000",Customer-098,Asia,Bengaluru,06:00 PM – 09:00 PM
+T001659,04-11-2025,PROD-009,Adjustable Monitor Arm,Furniture,14,"1,80,000","25,20,000",Customer-098,Asia,Dubai,12:00 PM – 03:00 PM
+T000454,28-03-2025,PROD-008,Executive Ballpoint Pen Box,Office Supplies,21,"1,20,000","25,20,000",Customer-090,Asia,Hyderabad,09:00 AM – 11:00 AM
+T000731,13-05-2025,PROD-003,27-inch 4K Monitor,Electronics,260,"12,00,000","31,20,00,000",Customer-015,North America,New York,06:00 PM – 09:00 PM
+T000535,09-04-2025,PROD-004,Standing Desk Converter,Furniture,49,"5,00,000","2,45,00,000",Customer-028,Asia,Mumbai,12:00 PM – 03:00 PM
+T000966,30-06-2025,PROD-006,A4 Printer Paper (500 Sheets),Office Supplies,26,"25,000","6,50,000",Customer-067,Asia,Singapore,09:00 AM – 11:00 AM
+T001285,05-09-2025,PROD-008,Executive Ballpoint Pen Box,Office Supplies,300,"1,20,000","3,60,00,000",Customer-113,Asia,Dubai,09:00 AM – 11:00 AM
+T001740,18-11-2025,PROD-009,Adjustable Monitor Arm,Furniture,49,"1,80,000","88,20,000",Customer-110,Asia,Pune,12:00 PM – 03:00 PM
+T000262,24-02-2025,PROD-004,Standing Desk Converter,Furniture,39,"5,00,000","1,95,00,000",Customer-116,Asia,Tokyo,12:00 PM – 03:00 PM
+T000536,09-04-2025,PROD-006,A4 Printer Paper (500 Sheets),Office Supplies,50,"25,000","12,50,000",Customer-126,Asia,Tokyo,09:00 AM – 11:00 AM
+T000969,02-07-2025,PROD-009,Adjustable Monitor Arm,Furniture,13,"1,80,000","23,40,000",Customer-029,Asia,Hyderabad,12:00 PM – 03:00 PM
+T000241,11-02-2025,PROD-001,Ergonomic Mesh Chair,Furniture,9,"4,50,000","40,50,000",Customer-028,Asia,Singapore,12:00 PM – 03:00 PM
+T000820,30-05-2025,PROD-006,A4 Printer Paper (500 Sheets),Office Supplies,150,"25,000","37,50,000",Customer-073,Asia,Hyderabad,09:00 AM – 11:00 AM
+T000693,05-05-2025,PROD-004,Standing Desk Converter,Furniture,6,"5,00,000","30,00,000",Customer-066,Asia,Hyderabad,12:00 PM – 03:00 PM
+T000421,24-03-2025,PROD-006,A4 Printer Paper (500 Sheets),Office Supplies,23,"25,000","5,75,000",Customer-088,North America,New York,09:00 AM – 11:00 AM
+T001086,24-07-2025,PROD-009,Adjustable Monitor Arm,Furniture,43,"1,80,000","77,40,000",Customer-141,Asia,Delhi,12:00 PM – 03:00 PM
+T001999,31-12-2025,PROD-006,A4 Printer Paper (500 Sheets),Office Supplies,6,"25,000","1,50,000",Customer-142,Asia,Bengaluru,09:00 AM – 11:00 AM
+T000366,11-03-2025,PROD-006,A4 Printer Paper (500 Sheets),Office Supplies,39,"25,000","9,75,000",Customer-041,Asia,Bengaluru,09:00 AM – 11:00 AM
+T001023,10-07-2025,PROD-006,A4 Printer Paper (500 Sheets),Office Supplies,23,"25,000","5,75,000",Customer-071,Asia,Hyderabad,09:00 AM – 11:00 AM
+T001241,26-08-2025,PROD-005,Noise-Cancelling Headphones,Electronics,140,"9,50,000","13,30,00,000",Customer-095,Asia,Dubai,06:00 PM – 09:00 PM
+T000589,21-04-2025,PROD-010,Webcam 1080p HD,Electronics,6,"2,00,000","12,00,000",Customer-096,Asia,Delhi,06:00 PM – 09:00 PM
+T000737,13-05-2025,PROD-005,Noise-Cancelling Headphones,Electronics,42,"9,50,000","3,99,00,000",Customer-037,Asia,Delhi,06:00 PM – 09:00 PM
+T001762,21-11-2025,PROD-007,USB-C Docking Station,Electronics,40,"2,50,000","1,00,00,000",Customer-082,Asia,Tokyo,06:00 PM – 09:00 PM
+T000942,25-06-2025,PROD-008,Executive Ballpoint Pen Box,Office Supplies,33,"1,20,000","39,60,000",Customer-062,Asia,Hyderabad,09:00 AM – 11:00 AM
+T000072,09-01-2025,PROD-003,27-inch 4K Monitor,Electronics,9,"12,00,000","1,08,00,000",Customer-069,Asia,Delhi,06:00 PM – 09:00 PM
+T001408,23-09-2025,PROD-005,Noise-Cancelling Headphones,Electronics,46,"9,50,000","4,37,00,000",Customer-134,Asia,Delhi,06:00 PM – 09:00 PM
+T000260,24-02-2025,PROD-003,27-inch 4K Monitor,Electronics,8,"12,00,000","96,00,000",Customer-055,Asia,Hyderabad,06:00 PM – 09:00 PM
+T000052,07-01-2025,PROD-006,A4 Printer Paper (500 Sheets),Office Supplies,14,"25,000","3,50,000",Customer-018,Asia,Singapore,09:00 AM – 11:00 AM
+T000199,05-02-2025,PROD-003,27-inch 4K Monitor,Electronics,21,"12,00,000","2,52,00,000",Customer-067,Asia,Tokyo,06:00 PM – 09:00 PM
+T001789,26-11-2025,PROD-006,A4 Printer Paper (500 Sheets),Office Supplies,33,"25,000","8,25,000",Customer-142,Asia,Kolkata,09:00 AM – 11:00 AM
+T000651,25-04-2025,PROD-008,Executive Ballpoint Pen Box,Office Supplies,40,"1,20,000","48,00,000",Customer-095,North America,New York,09:00 AM – 11:00 AM
+T000333,05-03-2025,PROD-003,27-inch 4K Monitor,Electronics,16,"12,00,000","1,92,00,000",Customer-047,Asia,Chennai,06:00 PM – 09:00 PM
+T001360,18-09-2025,PROD-004,Standing Desk Converter,Furniture,28,"5,00,000","1,40,00,000",Customer-138,Asia,Mumbai,12:00 PM – 03:00 PM
+T000594,21-04-2025,PROD-004,Standing Desk Converter,Furniture,24,"5,00,000","1,20,00,000",Customer-081,Asia,Singapore,12:00 PM – 03:00 PM
+T001392,22-09-2025,PROD-009,Adjustable Monitor Arm,Furniture,27,"1,80,000","48,60,000",Customer-091,Asia,Dubai,12:00 PM – 03:00 PM
+T001801,27-11-2025,PROD-010,Webcam 1080p HD,Electronics,23,"2,00,000","46,00,000",Customer-066,Asia,Tokyo,06:00 PM – 09:00 PM
+T001315,10-09-2025,PROD-007,USB-C Docking Station,Electronics,7,"2,50,000","17,50,000",Customer-077,Asia,Tokyo,06:00 PM – 09:00 PM
+T001112,28-07-2025,PROD-002,Wireless Mechanical Keyboard,Electronics,6,"3,50,000","21,00,000",Customer-064,Asia,Mumbai,06:00 PM – 09:00 PM
+T001007,09-07-2025,PROD-004,Standing Desk Converter,Furniture,110,"5,00,000","5,50,00,000",Customer-148,Asia,Singapore,12:00 PM – 03:00 PM
+T001327,11-09-2025,PROD-010,Webcam 1080p HD,Electronics,130,"2,00,000","2,60,00,000",Customer-096,Asia,Mumbai,06:00 PM – 09:00 PM
+T000427,25-03-2025,PROD-008,Executive Ballpoint Pen Box,Office Supplies,28,"1,20,000","33,60,000",Customer-026,North America,New York,09:00 AM – 11:00 AM
+T001559,20-10-2025,PROD-003,27-inch 4K Monitor,Electronics,29,"12,00,000","3,48,00,000",Customer-062,Asia,Singapore,06:00 PM – 09:00 PM
+T001294,08-09-2025,PROD-006,A4 Printer Paper (500 Sheets),Office Supplies,48,"25,000","12,00,000",Customer-072,Asia,Hyderabad,09:00 AM – 11:00 AM
+T000591,21-04-2025,PROD-006,A4 Printer Paper (500 Sheets),Office Supplies,27,"25,000","6,75,000",Customer-030,Europe,London,09:00 AM – 11:00 AM
+T001958,24-12-2025,PROD-006,A4 Printer Paper (500 Sheets),Office Supplies,34,"25,000","8,50,000",Customer-076,Asia,Tokyo,09:00 AM – 11:00 AM
+T001977,26-12-2025,PROD-003,27-inch 4K Monitor,Electronics,29,"12,00,000","3,48,00,000",Customer-134,Asia,Dubai,06:00 PM – 09:00 PM
+T001133,05-08-2025,PROD-010,Webcam 1080p HD,Electronics,21,"2,00,000","42,00,000",Customer-053,North America,New York,06:00 PM – 09:00 PM
+T000986,04-07-2025,PROD-003,27-inch 4K Monitor,Electronics,360,"12,00,000","43,20,00,000",Customer-138,Asia,Bengaluru,06:00 PM – 09:00 PM
+T000399,14-03-2025,PROD-005,Noise-Cancelling Headphones,Electronics,12,"9,50,000","1,14,00,000",Customer-140,Asia,Kolkata,06:00 PM – 09:00 PM
+T001512,10-10-2025,PROD-006,A4 Printer Paper (500 Sheets),Office Supplies,5,"25,000","1,25,000",Customer-081,North America,New York,09:00 AM – 11:00 AM
+T000437,26-03-2025,PROD-006,A4 Printer Paper (500 Sheets),Office Supplies,15,"25,000","3,75,000",Customer-126,Asia,Pune,09:00 AM – 11:00 AM
+T000193,05-02-2025,PROD-008,Executive Ballpoint Pen Box,Office Supplies,45,"1,20,000","54,00,000",Customer-087,Asia,Pune,09:00 AM – 11:00 AM
+T001436,26-09-2025,PROD-010,Webcam 1080p HD,Electronics,19,"2,00,000","38,00,000",Customer-049,Asia,Singapore,06:00 PM – 09:00 PM
+T000615,22-04-2025,PROD-008,Executive Ballpoint Pen Box,Office Supplies,11,"1,20,000","13,20,000",Customer-079,Asia,Kolkata,09:00 AM – 11:00 AM
+T001494,08-10-2025,PROD-007,USB-C Docking Station,Electronics,26,"2,50,000","65,00,000",Customer-035,Asia,Tokyo,06:00 PM – 09:00 PM
+T000577,16-04-2025,PROD-004,Standing Desk Converter,Furniture,50,"5,00,000","2,50,00,000",Customer-007,Asia,Singapore,12:00 PM – 03:00 PM
+T000987,04-07-2025,PROD-003,27-inch 4K Monitor,Electronics,60,"12,00,000","7,20,00,000",Customer-141,Asia,Pune,06:00 PM – 09:00 PM
+T001433,25-09-2025,PROD-005,Noise-Cancelling Headphones,Electronics,13,"9,50,000","1,23,50,000",Customer-014,Asia,Kolkata,06:00 PM – 09:00 PM
+T000707,08-05-2025,PROD-007,USB-C Docking Station,Electronics,370,"2,50,000","9,25,00,000",Customer-094,Asia,Singapore,06:00 PM – 09:00 PM
+T001259,27-08-2025,PROD-004,Standing Desk Converter,Furniture,31,"5,00,000","1,55,00,000",Customer-029,Asia,Chennai,12:00 PM – 03:00 PM
+T000142,21-01-2025,PROD-006,A4 Printer Paper (500 Sheets),Office Supplies,42,"25,000","10,50,000",Customer-065,Asia,Delhi,09:00 AM – 11:00 AM
+T001358,17-09-2025,PROD-008,Executive Ballpoint Pen Box,Office Supplies,10,"1,20,000","12,00,000",Customer-102,Asia,Mumbai,09:00 AM – 11:00 AM
+T000003,01-01-2025,PROD-009,Adjustable Monitor Arm,Furniture,25,"1,80,000","45,00,000",Customer-037,Asia,Chennai,12:00 PM – 03:00 PM
+T001222,21-08-2025,PROD-006,A4 Printer Paper (500 Sheets),Office Supplies,340,"25,000","85,00,000",Customer-072,Europe,London,09:00 AM – 11:00 AM
+T001870,09-12-2025,PROD-009,Adjustable Monitor Arm,Furniture,38,"1,80,000","68,40,000",Customer-120,Asia,Chennai,12:00 PM – 03:00 PM
+T001623,30-10-2025,PROD-008,Executive Ballpoint Pen Box,Office Supplies,38,"1,20,000","45,60,000",Customer-060,Asia,Kolkata,09:00 AM – 11:00 AM
+T000340,06-03-2025,PROD-007,USB-C Docking Station,Electronics,420,"2,50,000","10,50,00,000",Customer-012,Asia,Kolkata,06:00 PM – 09:00 PM
+T001770,24-11-2025,PROD-006,A4 Printer Paper (500 Sheets),Office Supplies,21,"25,000","5,25,000",Customer-094,Asia,Bengaluru,09:00 AM – 11:00 AM
+T001537,14-10-2025,PROD-002,Wireless Mechanical Keyboard,Electronics,50,"3,50,000","1,75,00,000",Customer-008,Asia,Tokyo,06:00 PM – 09:00 PM
+T000484,01-04-2025,PROD-002,Wireless Mechanical Keyboard,Electronics,9,"3,50,000","31,50,000",Customer-024,Asia,Chennai,06:00 PM – 09:00 PM
+T000266,24-02-2025,PROD-004,Standing Desk Converter,Furniture,49,"5,00,000","2,45,00,000",Customer-034,Asia,Singapore,12:00 PM – 03:00 PM
+T000377,12-03-2025,PROD-008,Executive Ballpoint Pen Box,Office Supplies,31,"1,20,000","37,20,000",Customer-147,Europe,London,09:00 AM – 11:00 AM
+T000742,13-05-2025,PROD-002,Wireless Mechanical Keyboard,Electronics,36,"3,50,000","1,26,00,000",Customer-050,Asia,Bengaluru,06:00 PM – 09:00 PM
+T001014,10-07-2025,PROD-010,Webcam 1080p HD,Electronics,7,"2,00,000","14,00,000",Customer-013,Asia,Mumbai,06:00 PM – 09:00 PM
+T000440,26-03-2025,PROD-004,Standing Desk Converter,Furniture,46,"5,00,000","2,30,00,000",Customer-057,Asia,Bengaluru,12:00 PM – 03:00 PM
+T000272,26-02-2025,PROD-009,Adjustable Monitor Arm,Furniture,40,"1,80,000","72,00,000",Customer-090,Asia,Dubai,12:00 PM – 03:00 PM
+T000185,30-01-2025,PROD-005,Noise-Cancelling Headphones,Electronics,5,"9,50,000","47,50,000",Customer-149,Asia,Pune,06:00 PM – 09:00 PM
+T000940,25-06-2025,PROD-001,Ergonomic Mesh Chair,Furniture,36,"4,50,000","1,62,00,000",Customer-103,North America,New York,12:00 PM – 03:00 PM
+T000245,11-02-2025,PROD-006,A4 Printer Paper (500 Sheets),Office Supplies,11,"25,000","2,75,000",Customer-141,Asia,Delhi,09:00 AM – 11:00 AM
+T000932,25-06-2025,PROD-008,Executive Ballpoint Pen Box,Office Supplies,150,"1,20,000","1,80,00,000",Customer-015,Asia,Tokyo,09:00 AM – 11:00 AM
+T000446,26-03-2025,PROD-004,Standing Desk Converter,Furniture,7,"5,00,000","35,00,000",Customer-016,Asia,Pune,12:00 PM – 03:00 PM
+T000597,21-04-2025,PROD-009,Adjustable Monitor Arm,Furniture,29,"1,80,000","52,20,000",Customer-047,Asia,Bengaluru,12:00 PM – 03:00 PM
+T000818,30-05-2025,PROD-002,Wireless Mechanical Keyboard,Electronics,21,"3,50,000","73,50,000",Customer-020,Europe,London,06:00 PM – 09:00 PM
+T001273,04-09-2025,PROD-001,Ergonomic Mesh Chair,Furniture,5,"4,50,000","22,50,000",Customer-004,Asia,Kolkata,12:00 PM – 03:00 PM
+T001677,06-11-2025,PROD-001,Ergonomic Mesh Chair,Furniture,500,"4,50,000","22,50,00,000",Customer-101,Asia,Chennai,12:00 PM – 03:00 PM
+T000487,01-04-2025,PROD-004,Standing Desk Converter,Furniture,5,"5,00,000","25,00,000",Customer-135,Europe,London,12:00 PM – 03:00 PM
+T000681,01-05-2025,PROD-004,Standing Desk Converter,Furniture,38,"5,00,000","1,90,00,000",Customer-002,Asia,Chennai,12:00 PM – 03:00 PM
+T000416,24-03-2025,PROD-001,Ergonomic Mesh Chair,Furniture,49,"4,50,000","2,20,50,000",Customer-062,Asia,Kolkata,12:00 PM – 03:00 PM
+T000274,26-02-2025,PROD-003,27-inch 4K Monitor,Electronics,42,"12,00,000","5,04,00,000",Customer-091,Asia,Kolkata,06:00 PM – 09:00 PM
+T001472,01-10-2025,PROD-004,Standing Desk Converter,Furniture,230,"5,00,000","11,50,00,000",Customer-008,Asia,Hyderabad,12:00 PM – 03:00 PM
+T001830,03-12-2025,PROD-001,Ergonomic Mesh Chair,Furniture,35,"4,50,000","1,57,50,000",Customer-009,North America,New York,12:00 PM – 03:00 PM
+T001455,30-09-2025,PROD-007,USB-C Docking Station,Electronics,33,"2,50,000","82,50,000",Customer-022,Asia,Singapore,06:00 PM – 09:00 PM
+T000251,13-02-2025,PROD-004,Standing Desk Converter,Furniture,360,"5,00,000","18,00,00,000",Customer-030,Asia,Kolkata,12:00 PM – 03:00 PM
+T000414,17-03-2025,PROD-006,A4 Printer Paper (500 Sheets),Office Supplies,41,"25,000","10,25,000",Customer-084,Asia,Kolkata,09:00 AM – 11:00 AM
+T001386,22-09-2025,PROD-010,Webcam 1080p HD,Electronics,34,"2,00,000","68,00,000",Customer-042,Asia,Pune,06:00 PM – 09:00 PM
+T001308,10-09-2025,PROD-003,27-inch 4K Monitor,Electronics,14,"12,00,000","1,68,00,000",Customer-009,Europe,London,06:00 PM – 09:00 PM
+T000716,12-05-2025,PROD-002,Wireless Mechanical Keyboard,Electronics,500,"3,50,000","17,50,00,000",Customer-024,Asia,Bengaluru,06:00 PM – 09:00 PM
+T000311,28-02-2025,PROD-003,27-inch 4K Monitor,Electronics,36,"12,00,000","4,32,00,000",Customer-118,Asia,Bengaluru,06:00 PM – 09:00 PM
+T000927,23-06-2025,PROD-002,Wireless Mechanical Keyboard,Electronics,44,"3,50,000","1,54,00,000",Customer-124,Asia,Pune,06:00 PM – 09:00 PM
+T000382,12-03-2025,PROD-006,A4 Printer Paper (500 Sheets),Office Supplies,17,"25,000","4,25,000",Customer-008,Asia,Tokyo,09:00 AM – 11:00 AM
+T001566,20-10-2025,PROD-004,Standing Desk Converter,Furniture,43,"5,00,000","2,15,00,000",Customer-130,Asia,Dubai,12:00 PM – 03:00 PM
+T000426,25-03-2025,PROD-002,Wireless Mechanical Keyboard,Electronics,35,"3,50,000","1,22,50,000",Customer-121,Asia,Bengaluru,06:00 PM – 09:00 PM
+T001875,09-12-2025,PROD-001,Ergonomic Mesh Chair,Furniture,25,"4,50,000","1,12,50,000",Customer-118,Asia,Mumbai,12:00 PM – 03:00 PM
+T000533,09-04-2025,PROD-004,Standing Desk Converter,Furniture,400,"5,00,000","20,00,00,000",Customer-132,Asia,Delhi,12:00 PM – 03:00 PM
+T000753,15-05-2025,PROD-007,USB-C Docking Station,Electronics,30,"2,50,000","75,00,000",Customer-019,Asia,Tokyo,06:00 PM – 09:00 PM
+T000766,19-05-2025,PROD-001,Ergonomic Mesh Chair,Furniture,12,"4,50,000","54,00,000",Customer-064,Asia,Hyderabad,12:00 PM – 03:00 PM
+T001357,17-09-2025,PROD-002,Wireless Mechanical Keyboard,Electronics,370,"3,50,000","12,95,00,000",Customer-121,Asia,Delhi,06:00 PM – 09:00 PM
+T000409,17-03-2025,PROD-004,Standing Desk Converter,Furniture,35,"5,00,000","1,75,00,000",Customer-121,Asia,Pune,12:00 PM – 03:00 PM
+T001615,29-10-2025,PROD-004,Standing Desk Converter,Furniture,25,"5,00,000","1,25,00,000",Customer-097,Asia,Mumbai,12:00 PM – 03:00 PM
+T000695,05-05-2025,PROD-009,Adjustable Monitor Arm,Furniture,14,"1,80,000","25,20,000",Customer-148,Asia,Bengaluru,12:00 PM – 03:00 PM
+T001739,18-11-2025,PROD-010,Webcam 1080p HD,Electronics,340,"2,00,000","6,80,00,000",Customer-091,Asia,Delhi,06:00 PM – 09:00 PM
+T000549,11-04-2025,PROD-002,Wireless Mechanical Keyboard,Electronics,34,"3,50,000","1,19,00,000",Customer-130,Asia,Pune,06:00 PM – 09:00 PM
+T000937,25-06-2025,PROD-001,Ergonomic Mesh Chair,Furniture,24,"4,50,000","1,08,00,000",Customer-076,Asia,Hyderabad,12:00 PM – 03:00 PM
+T001390,22-09-2025,PROD-007,USB-C Docking Station,Electronics,28,"2,50,000","70,00,000",Customer-089,Europe,London,06:00 PM – 09:00 PM
+T001608,29-10-2025,PROD-010,Webcam 1080p HD,Electronics,7,"2,00,000","14,00,000",Customer-123,Asia,Kolkata,06:00 PM – 09:00 PM
+T001940,23-12-2025,PROD-004,Standing Desk Converter,Furniture,28,"5,00,000","1,40,00,000",Customer-074,Asia,Delhi,12:00 PM – 03:00 PM
+T001482,07-10-2025,PROD-004,Standing Desk Converter,Furniture,180,"5,00,000","9,00,00,000",Customer-119,Asia,Mumbai,12:00 PM – 03:00 PM
+T000183,30-01-2025,PROD-004,Standing Desk Converter,Furniture,470,"5,00,000","23,50,00,000",Customer-121,Asia,Dubai,12:00 PM – 03:00 PM
+T001941,23-12-2025,PROD-009,Adjustable Monitor Arm,Furniture,7,"1,80,000","12,60,000",Customer-107,Asia,Singapore,12:00 PM – 03:00 PM
+T001161,12-08-2025,PROD-003,27-inch 4K Monitor,Electronics,41,"12,00,000","4,92,00,000",Customer-001,Asia,Tokyo,06:00 PM – 09:00 PM
+T000171,28-01-2025,PROD-006,A4 Printer Paper (500 Sheets),Office Supplies,43,"25,000","10,75,000",Customer-022,Europe,London,09:00 AM – 11:00 AM
+T000293,27-02-2025,PROD-005,Noise-Cancelling Headphones,Electronics,42,"9,50,000","3,99,00,000",Customer-004,Asia,Dubai,06:00 PM – 09:00 PM
+T000562,15-04-2025,PROD-003,27-inch 4K Monitor,Electronics,8,"12,00,000","96,00,000",Customer-066,Asia,Hyderabad,06:00 PM – 09:00 PM
+T001457,30-09-2025,PROD-001,Ergonomic Mesh Chair,Furniture,38,"4,50,000","1,71,00,000",Customer-109,Asia,Kolkata,12:00 PM – 03:00 PM
+T001877,09-12-2025,PROD-008,Executive Ballpoint Pen Box,Office Supplies,13,"1,20,000","15,60,000",Customer-105,Asia,Pune,09:00 AM – 11:00 AM
+T001652,04-11-2025,PROD-004,Standing Desk Converter,Furniture,50,"5,00,000","2,50,00,000",Customer-098,North America,New York,12:00 PM – 03:00 PM
+T000850,09-06-2025,PROD-005,Noise-Cancelling Headphones,Electronics,28,"9,50,000","2,66,00,000",Customer-102,North America,New York,06:00 PM – 09:00 PM
+T000273,26-02-2025,PROD-002,Wireless Mechanical Keyboard,Electronics,47,"3,50,000","1,64,50,000",Customer-062,Asia,Mumbai,06:00 PM – 09:00 PM
+T001550,15-10-2025,PROD-004,Standing Desk Converter,Furniture,34,"5,00,000","1,70,00,000",Customer-023,Asia,Dubai,12:00 PM – 03:00 PM
+T001035,11-07-2025,PROD-004,Standing Desk Converter,Furniture,23,"5,00,000","1,15,00,000",Customer-086,Asia,Delhi,12:00 PM – 03:00 PM
+T001744,18-11-2025,PROD-001,Ergonomic Mesh Chair,Furniture,22,"4,50,000","99,00,000",Customer-139,Asia,Chennai,12:00 PM – 03:00 PM
+T000372,12-03-2025,PROD-008,Executive Ballpoint Pen Box,Office Supplies,430,"1,20,000","5,16,00,000",Customer-038,Asia,Bengaluru,09:00 AM – 11:00 AM
+T001670,05-11-2025,PROD-010,Webcam 1080p HD,Electronics,11,"2,00,000","22,00,000",Customer-096,Asia,Tokyo,06:00 PM – 09:00 PM
+T000722,12-05-2025,PROD-002,Wireless Mechanical Keyboard,Electronics,460,"3,50,000","16,10,00,000",Customer-016,Asia,Delhi,06:00 PM – 09:00 PM
+T000734,13-05-2025,PROD-004,Standing Desk Converter,Furniture,22,"5,00,000","1,10,00,000",Customer-055,Asia,Kolkata,12:00 PM – 03:00 PM
+T000778,19-05-2025,PROD-007,USB-C Docking Station,Electronics,39,"2,50,000","97,50,000",Customer-020,Asia,Tokyo,06:00 PM – 09:00 PM
+T000519,07-04-2025,PROD-009,Adjustable Monitor Arm,Furniture,6,"1,80,000","10,80,000",Customer-121,Asia,Tokyo,12:00 PM – 03:00 PM
+T000335,06-03-2025,PROD-005,Noise-Cancelling Headphones,Electronics,290,"9,50,000","27,55,00,000",Customer-121,Asia,Chennai,06:00 PM – 09:00 PM
+T000846,09-06-2025,PROD-006,A4 Printer Paper (500 Sheets),Office Supplies,22,"25,000","5,50,000",Customer-007,North America,New York,09:00 AM – 11:00 AM
+T001252,27-08-2025,PROD-008,Executive Ballpoint Pen Box,Office Supplies,7,"1,20,000","8,40,000",Customer-137,Asia,Hyderabad,09:00 AM – 11:00 AM
+T001053,16-07-2025,PROD-006,A4 Printer Paper (500 Sheets),Office Supplies,24,"25,000","6,00,000",Customer-116,Asia,Singapore,09:00 AM – 11:00 AM
+T001924,22-12-2025,PROD-002,Wireless Mechanical Keyboard,Electronics,10,"3,50,000","35,00,000",Customer-122,Asia,Singapore,06:00 PM – 09:00 PM
+T000016,02-01-2025,PROD-003,27-inch 4K Monitor,Electronics,24,"12,00,000","2,88,00,000",Customer-016,Asia,Mumbai,06:00 PM – 09:00 PM
+T000708,08-05-2025,PROD-003,27-inch 4K Monitor,Electronics,23,"12,00,000","2,76,00,000",Customer-062,Asia,Kolkata,06:00 PM – 09:00 PM
+T000901,17-06-2025,PROD-009,Adjustable Monitor Arm,Furniture,27,"1,80,000","48,60,000",Customer-121,Asia,Kolkata,12:00 PM – 03:00 PM
+T001980,30-12-2025,PROD-006,A4 Printer Paper (500 Sheets),Office Supplies,26,"25,000","6,50,000",Customer-066,Asia,Kolkata,09:00 AM – 11:00 AM
+T001573,21-10-2025,PROD-002,Wireless Mechanical Keyboard,Electronics,41,"3,50,000","1,43,50,000",Customer-124,Asia,Chennai,06:00 PM – 09:00 PM
+T000904,17-06-2025,PROD-003,27-inch 4K Monitor,Electronics,260,"12,00,000","31,20,00,000",Customer-042,Asia,Mumbai,06:00 PM – 09:00 PM
+T000466,31-03-2025,PROD-010,Webcam 1080p HD,Electronics,42,"2,00,000","84,00,000",Customer-150,Asia,Singapore,06:00 PM – 09:00 PM
+T001978,30-12-2025,PROD-004,Standing Desk Converter,Furniture,15,"5,00,000","75,00,000",Customer-016,Asia,Kolkata,12:00 PM – 03:00 PM
+T000200,05-02-2025,PROD-005,Noise-Cancelling Headphones,Electronics,25,"9,50,000","2,37,50,000",Customer-024,Asia,Chennai,06:00 PM – 09:00 PM
+T001207,19-08-2025,PROD-008,Executive Ballpoint Pen Box,Office Supplies,20,"1,20,000","24,00,000",Customer-130,Asia,Chennai,09:00 AM – 11:00 AM
+T001056,16-07-2025,PROD-003,27-inch 4K Monitor,Electronics,36,"12,00,000","4,32,00,000",Customer-150,Asia,Kolkata,06:00 PM – 09:00 PM
+T001132,05-08-2025,PROD-007,USB-C Docking Station,Electronics,50,"2,50,000","1,25,00,000",Customer-080,Asia,Kolkata,06:00 PM – 09:00 PM
+T001380,19-09-2025,PROD-008,Executive Ballpoint Pen Box,Office Supplies,28,"1,20,000","33,60,000",Customer-015,Asia,Delhi,09:00 AM – 11:00 AM
+T000999,09-07-2025,PROD-002,Wireless Mechanical Keyboard,Electronics,40,"3,50,000","1,40,00,000",Customer-146,Asia,Tokyo,06:00 PM – 09:00 PM
+T000728,12-05-2025,PROD-006,A4 Printer Paper (500 Sheets),Office Supplies,11,"25,000","2,75,000",Customer-134,Asia,Mumbai,09:00 AM – 11:00 AM
+T001772,24-11-2025,PROD-004,Standing Desk Converter,Furniture,47,"5,00,000","2,35,00,000",Customer-020,Asia,Singapore,12:00 PM – 03:00 PM
+T001910,17-12-2025,PROD-004,Standing Desk Converter,Furniture,15,"5,00,000","75,00,000",Customer-039,Asia,Kolkata,12:00 PM – 03:00 PM
+T001822,01-12-2025,PROD-009,Adjustable Monitor Arm,Furniture,100,"1,80,000","1,80,00,000",Customer-101,Asia,Kolkata,12:00 PM – 03:00 PM
+T000568,15-04-2025,PROD-001,Ergonomic Mesh Chair,Furniture,45,"4,50,000","2,02,50,000",Customer-049,Asia,Chennai,12:00 PM – 03:00 PM
+T000044,07-01-2025,PROD-006,A4 Printer Paper (500 Sheets),Office Supplies,210,"25,000","52,50,000",Customer-047,Asia,Singapore,09:00 AM – 11:00 AM
+T000275,26-02-2025,PROD-002,Wireless Mechanical Keyboard,Electronics,10,"3,50,000","35,00,000",Customer-130,North America,New York,06:00 PM – 09:00 PM
+T001097,25-07-2025,PROD-001,Ergonomic Mesh Chair,Furniture,32,"4,50,000","1,44,00,000",Customer-083,North America,New York,12:00 PM – 03:00 PM
+T000102,15-01-2025,PROD-007,USB-C Docking Station,Electronics,47,"2,50,000","1,17,50,000",Customer-131,Europe,London,06:00 PM – 09:00 PM
+T001232,25-08-2025,PROD-002,Wireless Mechanical Keyboard,Electronics,350,"3,50,000","12,25,00,000",Customer-115,Europe,London,06:00 PM – 09:00 PM
+T001722,17-11-2025,PROD-009,Adjustable Monitor Arm,Furniture,380,"1,80,000","6,84,00,000",Customer-109,Asia,Hyderabad,12:00 PM – 03:00 PM
+T001833,03-12-2025,PROD-006,A4 Printer Paper (500 Sheets),Office Supplies,8,"25,000","2,00,000",Customer-042,Asia,Mumbai,09:00 AM – 11:00 AM
+T000108,16-01-2025,PROD-007,USB-C Docking Station,Electronics,27,"2,50,000","67,50,000",Customer-070,Asia,Chennai,06:00 PM – 09:00 PM
+T001618,29-10-2025,PROD-008,Executive Ballpoint Pen Box,Office Supplies,400,"1,20,000","4,80,00,000",Customer-078,Asia,Dubai,09:00 AM – 11:00 AM
+T000498,03-04-2025,PROD-001,Ergonomic Mesh Chair,Furniture,18,"4,50,000","81,00,000",Customer-117,Asia,Chennai,12:00 PM – 03:00 PM
+T001981,30-12-2025,PROD-003,27-inch 4K Monitor,Electronics,34,"12,00,000","4,08,00,000",Customer-138,Asia,Delhi,06:00 PM – 09:00 PM
+T000882,13-06-2025,PROD-006,A4 Printer Paper (500 Sheets),Office Supplies,11,"25,000","2,75,000",Customer-095,Europe,London,09:00 AM – 11:00 AM
+T000757,16-05-2025,PROD-001,Ergonomic Mesh Chair,Furniture,18,"4,50,000","81,00,000",Customer-111,Asia,Chennai,12:00 PM – 03:00 PM
+T000620,22-04-2025,PROD-002,Wireless Mechanical Keyboard,Electronics,21,"3,50,000","73,50,000",Customer-062,Asia,Singapore,06:00 PM – 09:00 PM
+T001107,25-07-2025,PROD-007,USB-C Docking Station,Electronics,43,"2,50,000","1,07,50,000",Customer-050,Asia,Chennai,06:00 PM – 09:00 PM
+T001936,23-12-2025,PROD-006,A4 Printer Paper (500 Sheets),Office Supplies,22,"25,000","5,50,000",Customer-129,Asia,Pune,09:00 AM – 11:00 AM
+T000810,28-05-2025,PROD-005,Noise-Cancelling Headphones,Electronics,5,"9,50,000","47,50,000",Customer-022,Asia,Hyderabad,06:00 PM – 09:00 PM
+T001038,11-07-2025,PROD-006,A4 Printer Paper (500 Sheets),Office Supplies,17,"25,000","4,25,000",Customer-118,Asia,Mumbai,09:00 AM – 11:00 AM
+T000073,09-01-2025,PROD-004,Standing Desk Converter,Furniture,47,"5,00,000","2,35,00,000",Customer-114,Asia,Singapore,12:00 PM – 03:00 PM
+T001284,05-09-2025,PROD-003,27-inch 4K Monitor,Electronics,4,"12,00,000","48,00,000",Customer-109,Asia,Singapore,06:00 PM – 09:00 PM
+T001272,04-09-2025,PROD-001,Ergonomic Mesh Chair,Furniture,37,"4,50,000","1,66,50,000",Customer-115,Asia,Delhi,12:00 PM – 03:00 PM
+T001335,12-09-2025,PROD-002,Wireless Mechanical Keyboard,Electronics,25,"3,50,000","87,50,000",Customer-045,Asia,Dubai,06:00 PM – 09:00 PM
+T001459,30-09-2025,PROD-002,Wireless Mechanical Keyboard,Electronics,5,"3,50,000","17,50,000",Customer-071,Asia,Bengaluru,06:00 PM – 09:00 PM
+T000482,01-04-2025,PROD-006,A4 Printer Paper (500 Sheets),Office Supplies,370,"25,000","92,50,000",Customer-136,Asia,Singapore,09:00 AM – 11:00 AM
+T001069,17-07-2025,PROD-009,Adjustable Monitor Arm,Furniture,17,"1,80,000","30,60,000",Customer-103,Asia,Delhi,12:00 PM – 03:00 PM
+T000507,04-04-2025,PROD-003,27-inch 4K Monitor,Electronics,14,"12,00,000","1,68,00,000",Customer-035,Asia,Pune,06:00 PM – 09:00 PM
+T001238,26-08-2025,PROD-001,Ergonomic Mesh Chair,Furniture,50,"4,50,000","2,25,00,000",Customer-110,Asia,Singapore,12:00 PM – 03:00 PM
+T001862,08-12-2025,PROD-010,Webcam 1080p HD,Electronics,480,"2,00,000","9,60,00,000",Customer-090,Asia,Tokyo,06:00 PM – 09:00 PM
+T001990,31-12-2025,PROD-002,Wireless Mechanical Keyboard,Electronics,6,"3,50,000","21,00,000",Customer-017,Asia,Singapore,06:00 PM – 09:00 PM
+T001477,01-10-2025,PROD-006,A4 Printer Paper (500 Sheets),Office Supplies,32,"25,000","8,00,000",Customer-054,Asia,Chennai,09:00 AM – 11:00 AM
+T001867,08-12-2025,PROD-008,Executive Ballpoint Pen Box,Office Supplies,25,"1,20,000","30,00,000",Customer-130,Asia,Delhi,09:00 AM – 11:00 AM
+T001456,30-09-2025,PROD-005,Noise-Cancelling Headphones,Electronics,6,"9,50,000","57,00,000",Customer-102,Asia,Singapore,06:00 PM – 09:00 PM
+T000312,04-03-2025,PROD-001,Ergonomic Mesh Chair,Furniture,33,"4,50,000","1,48,50,000",Customer-138,North America,New York,12:00 PM – 03:00 PM
+T000963,30-06-2025,PROD-006,A4 Printer Paper (500 Sheets),Office Supplies,9,"25,000","2,25,000",Customer-146,Asia,Kolkata,09:00 AM – 11:00 AM
+T000406,14-03-2025,PROD-001,Ergonomic Mesh Chair,Furniture,12,"4,50,000","54,00,000",Customer-099,Asia,Hyderabad,12:00 PM – 03:00 PM
+T001331,12-09-2025,PROD-009,Adjustable Monitor Arm,Furniture,17,"1,80,000","30,60,000",Customer-030,North America,New York,12:00 PM – 03:00 PM
+T001650,04-11-2025,PROD-005,Noise-Cancelling Headphones,Electronics,39,"9,50,000","3,70,50,000",Customer-040,Asia,Hyderabad,06:00 PM – 09:00 PM
+T000310,28-02-2025,PROD-009,Adjustable Monitor Arm,Furniture,43,"1,80,000","77,40,000",Customer-046,Europe,London,12:00 PM – 03:00 PM
+T000227,10-02-2025,PROD-006,A4 Printer Paper (500 Sheets),Office Supplies,26,"25,000","6,50,000",Customer-141,Asia,Bengaluru,09:00 AM – 11:00 AM
+T001858,05-12-2025,PROD-007,USB-C Docking Station,Electronics,37,"2,50,000","92,50,000",Customer-042,Asia,Singapore,06:00 PM – 09:00 PM
+T000711,08-05-2025,PROD-001,Ergonomic Mesh Chair,Furniture,24,"4,50,000","1,08,00,000",Customer-040,Asia,Bengaluru,12:00 PM – 03:00 PM
+T001944,23-12-2025,PROD-006,A4 Printer Paper (500 Sheets),Office Supplies,80,"25,000","20,00,000",Customer-093,Asia,Delhi,09:00 AM – 11:00 AM
+T001384,22-09-2025,PROD-005,Noise-Cancelling Headphones,Electronics,17,"9,50,000","1,61,50,000",Customer-039,Asia,Singapore,06:00 PM – 09:00 PM
+T001786,25-11-2025,PROD-002,Wireless Mechanical Keyboard,Electronics,5,"3,50,000","17,50,000",Customer-096,Europe,London,06:00 PM – 09:00 PM
+T000149,22-01-2025,PROD-010,Webcam 1080p HD,Electronics,110,"2,00,000","2,20,00,000",Customer-053,Asia,Kolkata,06:00 PM – 09:00 PM
+T001555,17-10-2025,PROD-008,Executive Ballpoint Pen Box,Office Supplies,23,"1,20,000","27,60,000",Customer-013,Asia,Kolkata,09:00 AM – 11:00 AM
+T001957,24-12-2025,PROD-009,Adjustable Monitor Arm,Furniture,7,"1,80,000","12,60,000",Customer-084,Asia,Kolkata,12:00 PM – 03:00 PM
+T000926,23-06-2025,PROD-006,A4 Printer Paper (500 Sheets),Office Supplies,30,"25,000","7,50,000",Customer-037,Asia,Pune,09:00 AM – 11:00 AM
+T000943,26-06-2025,PROD-004,Standing Desk Converter,Furniture,165,"5,00,000","8,25,00,000",Customer-090,Asia,Bengaluru,12:00 PM – 03:00 PM
+T000837,05-06-2025,PROD-007,USB-C Docking Station,Electronics,4,"2,50,000","10,00,000",Customer-089,Asia,Bengaluru,06:00 PM – 09:00 PM
+T000576,16-04-2025,PROD-010,Webcam 1080p HD,Electronics,46,"2,00,000","92,00,000",Customer-073,Asia,Delhi,06:00 PM – 09:00 PM
+T000558,15-04-2025,PROD-004,Standing Desk Converter,Furniture,49,"5,00,000","2,45,00,000",Customer-058,Asia,Singapore,12:00 PM – 03:00 PM
+T001236,25-08-2025,PROD-007,USB-C Docking Station,Electronics,49,"2,50,000","1,22,50,000",Customer-079,Europe,London,06:00 PM – 09:00 PM
+T001361,18-09-2025,PROD-003,27-inch 4K Monitor,Electronics,42,"12,00,000","5,04,00,000",Customer-144,Asia,Hyderabad,06:00 PM – 09:00 PM
+T001348,15-09-2025,PROD-005,Noise-Cancelling Headphones,Electronics,49,"9,50,000","4,65,50,000",Customer-084,Asia,Delhi,06:00 PM – 09:00 PM
+T001162,12-08-2025,PROD-008,Executive Ballpoint Pen Box,Office Supplies,46,"1,20,000","55,20,000",Customer-124,Asia,Singapore,09:00 AM – 11:00 AM
+T001443,26-09-2025,PROD-008,Executive Ballpoint Pen Box,Office Supplies,21,"1,20,000","25,20,000",Customer-078,Asia,Dubai,09:00 AM – 11:00 AM
+T000287,27-02-2025,PROD-002,Wireless Mechanical Keyboard,Electronics,30,"3,50,000","1,05,00,000",Customer-106,Asia,Mumbai,06:00 PM – 09:00 PM
+T001605,24-10-2025,PROD-005,Noise-Cancelling Headphones,Electronics,23,"9,50,000","2,18,50,000",Customer-107,Asia,Dubai,06:00 PM – 09:00 PM
+T001058,16-07-2025,PROD-003,27-inch 4K Monitor,Electronics,36,"12,00,000","4,32,00,000",Customer-104,North America,New York,06:00 PM – 09:00 PM
+T000599,21-04-2025,PROD-009,Adjustable Monitor Arm,Furniture,30,"1,80,000","54,00,000",Customer-075,Asia,Tokyo,12:00 PM – 03:00 PM
+T000933,25-06-2025,PROD-001,Ergonomic Mesh Chair,Furniture,36,"4,50,000","1,62,00,000",Customer-136,Asia,Kolkata,12:00 PM – 03:00 PM
+T001462,30-09-2025,PROD-006,A4 Printer Paper (500 Sheets),Office Supplies,11,"25,000","2,75,000",Customer-109,Asia,Singapore,09:00 AM – 11:00 AM
+T001638,31-10-2025,PROD-006,A4 Printer Paper (500 Sheets),Office Supplies,9,"25,000","2,25,000",Customer-069,North America,New York,09:00 AM – 11:00 AM
+T001588,22-10-2025,PROD-005,Noise-Cancelling Headphones,Electronics,47,"9,50,000","4,46,50,000",Customer-081,Asia,Delhi,06:00 PM – 09:00 PM
+T001041,14-07-2025,PROD-002,Wireless Mechanical Keyboard,Electronics,42,"3,50,000","1,47,00,000",Customer-072,Asia,Kolkata,06:00 PM – 09:00 PM
+T001231,25-08-2025,PROD-006,A4 Printer Paper (500 Sheets),Office Supplies,48,"25,000","12,00,000",Customer-126,Asia,Bengaluru,09:00 AM – 11:00 AM
+T000807,28-05-2025,PROD-008,Executive Ballpoint Pen Box,Office Supplies,27,"1,20,000","32,40,000",Customer-034,Asia,Tokyo,09:00 AM – 11:00 AM
+T000905,17-06-2025,PROD-001,Ergonomic Mesh Chair,Furniture,13,"4,50,000","58,50,000",Customer-055,Asia,Dubai,12:00 PM – 03:00 PM
+T001680,06-11-2025,PROD-001,Ergonomic Mesh Chair,Furniture,19,"4,50,000","85,50,000",Customer-101,Asia,Pune,12:00 PM – 03:00 PM
+T001205,19-08-2025,PROD-005,Noise-Cancelling Headphones,Electronics,18,"9,50,000","1,71,00,000",Customer-062,Asia,Mumbai,06:00 PM – 09:00 PM
+T000768,19-05-2025,PROD-006,A4 Printer Paper (500 Sheets),Office Supplies,430,"25,000","1,07,50,000",Customer-126,Asia,Mumbai,09:00 AM – 11:00 AM
+T000610,22-04-2025,PROD-007,USB-C Docking Station,Electronics,35,"2,50,000","87,50,000",Customer-129,Asia,Chennai,06:00 PM – 09:00 PM
+T001993,31-12-2025,PROD-005,Noise-Cancelling Headphones,Electronics,44,"9,50,000","4,18,00,000",Customer-085,North America,New York,06:00 PM – 09:00 PM
+T001565,20-10-2025,PROD-002,Wireless Mechanical Keyboard,Electronics,44,"3,50,000","1,54,00,000",Customer-065,Asia,Pune,06:00 PM – 09:00 PM
+T001423,24-09-2025,PROD-003,27-inch 4K Monitor,Electronics,440,"12,00,000","52,80,00,000",Customer-128,Asia,Chennai,06:00 PM – 09:00 PM
+T001011,10-07-2025,PROD-007,USB-C Docking Station,Electronics,9,"2,50,000","22,50,000",Customer-038,Asia,Dubai,06:00 PM – 09:00 PM
+T000494,03-04-2025,PROD-001,Ergonomic Mesh Chair,Furniture,21,"4,50,000","94,50,000",Customer-021,Asia,Dubai,12:00 PM – 03:00 PM
+T001321,11-09-2025,PROD-006,A4 Printer Paper (500 Sheets),Office Supplies,36,"25,000","9,00,000",Customer-090,Asia,Chennai,09:00 AM – 11:00 AM
+T000278,26-02-2025,PROD-002,Wireless Mechanical Keyboard,Electronics,40,"3,50,000","1,40,00,000",Customer-055,Asia,Kolkata,06:00 PM – 09:00 PM
+T001847,04-12-2025,PROD-001,Ergonomic Mesh Chair,Furniture,10,"4,50,000","45,00,000",Customer-004,Asia,Chennai,12:00 PM – 03:00 PM
+T000359,10-03-2025,PROD-009,Adjustable Monitor Arm,Furniture,450,"1,80,000","8,10,00,000",Customer-136,Europe,London,12:00 PM – 03:00 PM
+T001111,28-07-2025,PROD-008,Executive Ballpoint Pen Box,Office Supplies,19,"1,20,000","22,80,000",Customer-011,Asia,Hyderabad,09:00 AM – 11:00 AM
+T000237,11-02-2025,PROD-003,27-inch 4K Monitor,Electronics,6,"12,00,000","72,00,000",Customer-002,Asia,Mumbai,06:00 PM – 09:00 PM
+T000552,11-04-2025,PROD-005,Noise-Cancelling Headphones,Electronics,46,"9,50,000","4,37,00,000",Customer-098,Asia,Chennai,06:00 PM – 09:00 PM
+T001868,08-12-2025,PROD-010,Webcam 1080p HD,Electronics,120,"2,00,000","2,40,00,000",Customer-089,Asia,Kolkata,06:00 PM – 09:00 PM
+T001813,01-12-2025,PROD-007,USB-C Docking Station,Electronics,46,"2,50,000","1,15,00,000",Customer-100,Europe,London,06:00 PM – 09:00 PM
+T000209,06-02-2025,PROD-009,Adjustable Monitor Arm,Furniture,31,"1,80,000","55,80,000",Customer-109,Europe,London,12:00 PM – 03:00 PM
+T001387,22-09-2025,PROD-009,Adjustable Monitor Arm,Furniture,29,"1,80,000","52,20,000",Customer-042,Asia,Delhi,12:00 PM – 03:00 PM
+T001561,20-10-2025,PROD-004,Standing Desk Converter,Furniture,230,"5,00,000","11,50,00,000",Customer-087,Asia,Hyderabad,12:00 PM – 03:00 PM
+T000059,08-01-2025,PROD-003,27-inch 4K Monitor,Electronics,50,"12,00,000","6,00,00,000",Customer-027,Asia,Delhi,06:00 PM – 09:00 PM
+T000632,23-04-2025,PROD-009,Adjustable Monitor Arm,Furniture,15,"1,80,000","27,00,000",Customer-047,Asia,Bengaluru,12:00 PM – 03:00 PM
+T001962,25-12-2025,PROD-006,A4 Printer Paper (500 Sheets),Office Supplies,30,"25,000","7,50,000",Customer-054,Asia,Bengaluru,09:00 AM – 11:00 AM
+T001860,08-12-2025,PROD-002,Wireless Mechanical Keyboard,Electronics,36,"3,50,000","1,26,00,000",Customer-121,North America,New York,06:00 PM – 09:00 PM
+T001817,01-12-2025,PROD-009,Adjustable Monitor Arm,Furniture,22,"1,80,000","39,60,000",Customer-113,Europe,London,12:00 PM – 03:00 PM
+T000364,11-03-2025,PROD-007,USB-C Docking Station,Electronics,23,"2,50,000","57,50,000",Customer-012,North America,New York,06:00 PM – 09:00 PM
+T000506,04-04-2025,PROD-003,27-inch 4K Monitor,Electronics,360,"12,00,000","43,20,00,000",Customer-131,North America,New York,06:00 PM – 09:00 PM
+T001166,12-08-2025,PROD-001,Ergonomic Mesh Chair,Furniture,190,"4,50,000","8,55,00,000",Customer-024,Asia,Singapore,12:00 PM – 03:00 PM
+T001122,05-08-2025,PROD-001,Ergonomic Mesh Chair,Furniture,26,"4,50,000","1,17,00,000",Customer-036,Asia,Hyderabad,12:00 PM – 03:00 PM
+T001630,30-10-2025,PROD-008,Executive Ballpoint Pen Box,Office Supplies,47,"1,20,000","56,40,000",Customer-077,Asia,Kolkata,09:00 AM – 11:00 AM
+T001217,21-08-2025,PROD-002,Wireless Mechanical Keyboard,Electronics,25,"3,50,000","87,50,000",Customer-111,Asia,Dubai,06:00 PM – 09:00 PM
+T001152,07-08-2025,PROD-010,Webcam 1080p HD,Electronics,15,"2,00,000","30,00,000",Customer-005,Asia,Chennai,06:00 PM – 09:00 PM
+T001125,05-08-2025,PROD-010,Webcam 1080p HD,Electronics,39,"2,00,000","78,00,000",Customer-148,Asia,Pune,06:00 PM – 09:00 PM
+T001595,22-10-2025,PROD-003,27-inch 4K Monitor,Electronics,420,"12,00,000","50,40,00,000",Customer-126,Asia,Dubai,06:00 PM – 09:00 PM
+T000119,17-01-2025,PROD-007,USB-C Docking Station,Electronics,12,"2,50,000","30,00,000",Customer-106,Asia,Pune,06:00 PM – 09:00 PM
+T001250,27-08-2025,PROD-008,Executive Ballpoint Pen Box,Office Supplies,18,"1,20,000","21,60,000",Customer-101,Asia,Chennai,09:00 AM – 11:00 AM
+T001994,31-12-2025,PROD-001,Ergonomic Mesh Chair,Furniture,43,"4,50,000","1,93,50,000",Customer-120,Europe,London,12:00 PM – 03:00 PM
+T000523,07-04-2025,PROD-004,Standing Desk Converter,Furniture,42,"5,00,000","2,10,00,000",Customer-020,Asia,Kolkata,12:00 PM – 03:00 PM
+T000514,07-04-2025,PROD-004,Standing Desk Converter,Furniture,37,"5,00,000","1,85,00,000",Customer-126,Asia,Singapore,12:00 PM – 03:00 PM
+T000082,10-01-2025,PROD-008,Executive Ballpoint Pen Box,Office Supplies,36,"1,20,000","43,20,000",Customer-055,Asia,Mumbai,09:00 AM – 11:00 AM
+T000916,19-06-2025,PROD-006,A4 Printer Paper (500 Sheets),Office Supplies,26,"25,000","6,50,000",Customer-063,Asia,Delhi,09:00 AM – 11:00 AM
+T001019,10-07-2025,PROD-008,Executive Ballpoint Pen Box,Office Supplies,60,"1,20,000","72,00,000",Customer-120,Asia,Kolkata,09:00 AM – 11:00 AM
+T000381,12-03-2025,PROD-006,A4 Printer Paper (500 Sheets),Office Supplies,24,"25,000","6,00,000",Customer-136,Asia,Singapore,09:00 AM – 11:00 AM
+T001030,11-07-2025,PROD-003,27-inch 4K Monitor,Electronics,6,"12,00,000","72,00,000",Customer-115,Asia,Delhi,06:00 PM – 09:00 PM
+T001689,07-11-2025,PROD-006,A4 Printer Paper (500 Sheets),Office Supplies,24,"25,000","6,00,000",Customer-088,Asia,Tokyo,09:00 AM – 11:00 AM
+T000085,10-01-2025,PROD-003,27-inch 4K Monitor,Electronics,45,"12,00,000","5,40,00,000",Customer-040,Asia,Delhi,06:00 PM – 09:00 PM
+T001678,06-11-2025,PROD-003,27-inch 4K Monitor,Electronics,370,"12,00,000","44,40,00,000",Customer-113,Asia,Kolkata,06:00 PM – 09:00 PM
+T000330,05-03-2025,PROD-004,Standing Desk Converter,Furniture,8,"5,00,000","40,00,000",Customer-096,Asia,Singapore,12:00 PM – 03:00 PM
+T000007,01-01-2025,PROD-009,Adjustable Monitor Arm,Furniture,35,"1,80,000","63,00,000",Customer-120,Asia,Mumbai,12:00 PM – 03:00 PM
+T000746,15-05-2025,PROD-004,Standing Desk Converter,Furniture,20,"5,00,000","1,00,00,000",Customer-005,North America,New York,12:00 PM – 03:00 PM
+T001554,17-10-2025,PROD-005,Noise-Cancelling Headphones,Electronics,39,"9,50,000","3,70,50,000",Customer-049,Asia,Dubai,06:00 PM – 09:00 PM
+T000915,19-06-2025,PROD-005,Noise-Cancelling Headphones,Electronics,35,"9,50,000","3,32,50,000",Customer-057,Asia,Kolkata,06:00 PM – 09:00 PM
+T000874,13-06-2025,PROD-006,A4 Printer Paper (500 Sheets),Office Supplies,40,"25,000","10,00,000",Customer-005,Asia,Tokyo,09:00 AM – 11:00 AM
+T000452,28-03-2025,PROD-009,Adjustable Monitor Arm,Furniture,22,"1,80,000","39,60,000",Customer-097,Asia,Hyderabad,12:00 PM – 03:00 PM
+T000491,03-04-2025,PROD-003,27-inch 4K Monitor,Electronics,6,"12,00,000","72,00,000",Customer-143,North America,New York,06:00 PM – 09:00 PM
+T001481,01-10-2025,PROD-007,USB-C Docking Station,Electronics,13,"2,50,000","32,50,000",Customer-042,Europe,London,06:00 PM – 09:00 PM
+T000288,27-02-2025,PROD-008,Executive Ballpoint Pen Box,Office Supplies,37,"1,20,000","44,40,000",Customer-030,Asia,Tokyo,09:00 AM – 11:00 AM
+T000949,26-06-2025,PROD-006,A4 Printer Paper (500 Sheets),Office Supplies,10,"25,000","2,50,000",Customer-095,Europe,London,09:00 AM – 11:00 AM
+T001986,30-12-2025,PROD-007,USB-C Docking Station,Electronics,49,"2,50,000","1,22,50,000",Customer-130,North America,New York,06:00 PM – 09:00 PM
+T001369,18-09-2025,PROD-004,Standing Desk Converter,Furniture,15,"5,00,000","75,00,000",Customer-007,Asia,Tokyo,12:00 PM – 03:00 PM
+T001147,06-08-2025,PROD-005,Noise-Cancelling Headphones,Electronics,13,"9,50,000","1,23,50,000",Customer-141,Asia,Kolkata,06:00 PM – 09:00 PM
+T000706,08-05-2025,PROD-006,A4 Printer Paper (500 Sheets),Office Supplies,22,"25,000","5,50,000",Customer-020,Asia,Bengaluru,09:00 AM – 11:00 AM
+T001727,17-11-2025,PROD-003,27-inch 4K Monitor,Electronics,470,"12,00,000","56,40,00,000",Customer-008,Asia,Singapore,06:00 PM – 09:00 PM
+T001702,11-11-2025,PROD-006,A4 Printer Paper (500 Sheets),Office Supplies,11,"25,000","2,75,000",Customer-111,Asia,Kolkata,09:00 AM – 11:00 AM
+T001629,30-10-2025,PROD-002,Wireless Mechanical Keyboard,Electronics,28,"3,50,000","98,00,000",Customer-017,Asia,Chennai,06:00 PM – 09:00 PM
+T001600,24-10-2025,PROD-007,USB-C Docking Station,Electronics,27,"2,50,000","67,50,000",Customer-102,Asia,Hyderabad,06:00 PM – 09:00 PM
+T001539,14-10-2025,PROD-002,Wireless Mechanical Keyboard,Electronics,280,"3,50,000","9,80,00,000",Customer-135,Asia,Singapore,06:00 PM – 09:00 PM
+T001406,23-09-2025,PROD-009,Adjustable Monitor Arm,Furniture,22,"1,80,000","39,60,000",Customer-149,Asia,Hyderabad,12:00 PM – 03:00 PM
+T001651,04-11-2025,PROD-004,Standing Desk Converter,Furniture,80,"5,00,000","4,00,00,000",Customer-109,Asia,Bengaluru,12:00 PM – 03:00 PM
+T000328,05-03-2025,PROD-006,A4 Printer Paper (500 Sheets),Office Supplies,40,"25,000","10,00,000",Customer-017,Asia,Delhi,09:00 AM – 11:00 AM
+T000443,26-03-2025,PROD-006,A4 Printer Paper (500 Sheets),Office Supplies,11,"25,000","2,75,000",Customer-012,Asia,Bengaluru,09:00 AM – 11:00 AM
+T000775,19-05-2025,PROD-006,A4 Printer Paper (500 Sheets),Office Supplies,450,"25,000","1,12,50,000",Customer-131,Asia,Tokyo,09:00 AM – 11:00 AM
+T001088,24-07-2025,PROD-005,Noise-Cancelling Headphones,Electronics,27,"9,50,000","2,56,50,000",Customer-052,Asia,Dubai,06:00 PM – 09:00 PM
+T001221,21-08-2025,PROD-003,27-inch 4K Monitor,Electronics,35,"12,00,000","4,20,00,000",Customer-047,Asia,Singapore,06:00 PM – 09:00 PM
+T001636,31-10-2025,PROD-009,Adjustable Monitor Arm,Furniture,200,"1,80,000","3,60,00,000",Customer-018,Asia,Dubai,12:00 PM – 03:00 PM
+T000178,30-01-2025,PROD-006,A4 Printer Paper (500 Sheets),Office Supplies,46,"25,000","11,50,000",Customer-108,Asia,Hyderabad,09:00 AM – 11:00 AM
+T001323,11-09-2025,PROD-001,Ergonomic Mesh Chair,Furniture,39,"4,50,000","1,75,50,000",Customer-040,Asia,Dubai,12:00 PM – 03:00 PM
+T000705,05-05-2025,PROD-004,Standing Desk Converter,Furniture,30,"5,00,000","1,50,00,000",Customer-040,Asia,Bengaluru,12:00 PM – 03:00 PM
+T000087,10-01-2025,PROD-001,Ergonomic Mesh Chair,Furniture,29,"4,50,000","1,30,50,000",Customer-014,Asia,Kolkata,12:00 PM – 03:00 PM
+T001884,12-12-2025,PROD-009,Adjustable Monitor Arm,Furniture,50,"1,80,000","90,00,000",Customer-062,Asia,Kolkata,12:00 PM – 03:00 PM
+T001948,24-12-2025,PROD-006,A4 Printer Paper (500 Sheets),Office Supplies,47,"25,000","11,75,000",Customer-066,Asia,Tokyo,09:00 AM – 11:00 AM
+T000458,28-03-2025,PROD-004,Standing Desk Converter,Furniture,34,"5,00,000","1,70,00,000",Customer-148,Asia,Dubai,12:00 PM – 03:00 PM
+T001829,03-12-2025,PROD-008,Executive Ballpoint Pen Box,Office Supplies,37,"1,20,000","44,40,000",Customer-033,Asia,Kolkata,09:00 AM – 11:00 AM
+T000055,08-01-2025,PROD-004,Standing Desk Converter,Furniture,400,"5,00,000","20,00,00,000",Customer-105,North America,New York,12:00 PM – 03:00 PM
+T001502,09-10-2025,PROD-002,Wireless Mechanical Keyboard,Electronics,35,"3,50,000","1,22,50,000",Customer-021,North America,New York,06:00 PM – 09:00 PM
+T000644,24-04-2025,PROD-002,Wireless Mechanical Keyboard,Electronics,33,"3,50,000","1,15,50,000",Customer-056,Asia,Bengaluru,06:00 PM – 09:00 PM
+T000678,01-05-2025,PROD-007,USB-C Docking Station,Electronics,21,"2,50,000","52,50,000",Customer-073,Europe,London,06:00 PM – 09:00 PM
+T000222,10-02-2025,PROD-001,Ergonomic Mesh Chair,Furniture,36,"4,50,000","1,62,00,000",Customer-123,Asia,Pune,12:00 PM – 03:00 PM
+T000114,17-01-2025,PROD-004,Standing Desk Converter,Furniture,16,"5,00,000","80,00,000",Customer-082,Asia,Kolkata,12:00 PM – 03:00 PM
+T000983,04-07-2025,PROD-003,27-inch 4K Monitor,Electronics,35,"12,00,000","4,20,00,000",Customer-041,Asia,Kolkata,06:00 PM – 09:00 PM
+T001229,25-08-2025,PROD-004,Standing Desk Converter,Furniture,11,"5,00,000","55,00,000",Customer-108,Asia,Pune,12:00 PM – 03:00 PM
+T001000,09-07-2025,PROD-007,USB-C Docking Station,Electronics,39,"2,50,000","97,50,000",Customer-096,Asia,Hyderabad,06:00 PM – 09:00 PM
+T000175,30-01-2025,PROD-007,USB-C Docking Station,Electronics,17,"2,50,000","42,50,000",Customer-031,Asia,Mumbai,06:00 PM – 09:00 PM
+T000782,21-05-2025,PROD-003,27-inch 4K Monitor,Electronics,9,"12,00,000","1,08,00,000",Customer-080,Asia,Bengaluru,06:00 PM – 09:00 PM
+T000590,21-04-2025,PROD-002,Wireless Mechanical Keyboard,Electronics,35,"3,50,000","1,22,50,000",Customer-021,Europe,London,06:00 PM – 09:00 PM
+T001560,20-10-2025,PROD-008,Executive Ballpoint Pen Box,Office Supplies,430,"1,20,000","5,16,00,000",Customer-028,Asia,Dubai,09:00 AM – 11:00 AM
+T000019,03-01-2025,PROD-010,Webcam 1080p HD,Electronics,26,"2,00,000","52,00,000",Customer-122,Asia,Tokyo,06:00 PM – 09:00 PM
+T000424,25-03-2025,PROD-005,Noise-Cancelling Headphones,Electronics,22,"9,50,000","2,09,00,000",Customer-034,North America,New York,06:00 PM – 09:00 PM
+T001344,12-09-2025,PROD-005,Noise-Cancelling Headphones,Electronics,18,"9,50,000","1,71,00,000",Customer-112,Asia,Hyderabad,06:00 PM – 09:00 PM
+T000286,27-02-2025,PROD-002,Wireless Mechanical Keyboard,Electronics,34,"3,50,000","1,19,00,000",Customer-150,Asia,Pune,06:00 PM – 09:00 PM
+T001584,22-10-2025,PROD-002,Wireless Mechanical Keyboard,Electronics,41,"3,50,000","1,43,50,000",Customer-048,Asia,Mumbai,06:00 PM – 09:00 PM
+T000429,25-03-2025,PROD-010,Webcam 1080p HD,Electronics,19,"2,00,000","38,00,000",Customer-093,Asia,Dubai,06:00 PM – 09:00 PM
+T001510,09-10-2025,PROD-009,Adjustable Monitor Arm,Furniture,8,"1,80,000","14,40,000",Customer-067,Europe,London,12:00 PM – 03:00 PM
+T001319,11-09-2025,PROD-006,A4 Printer Paper (500 Sheets),Office Supplies,34,"25,000","8,50,000",Customer-124,Asia,Singapore,09:00 AM – 11:00 AM
+T000670,30-04-2025,PROD-003,27-inch 4K Monitor,Electronics,45,"12,00,000","5,40,00,000",Customer-139,North America,New York,06:00 PM – 09:00 PM
+T000032,06-01-2025,PROD-008,Executive Ballpoint Pen Box,Office Supplies,37,"1,20,000","44,40,000",Customer-075,Asia,Hyderabad,09:00 AM – 11:00 AM
+T000941,25-06-2025,PROD-007,USB-C Docking Station,Electronics,25,"2,50,000","62,50,000",Customer-073,Asia,Dubai,06:00 PM – 09:00 PM
+T000723,12-05-2025,PROD-008,Executive Ballpoint Pen Box,Office Supplies,39,"1,20,000","46,80,000",Customer-005,Asia,Bengaluru,09:00 AM – 11:00 AM
+T000995,04-07-2025,PROD-010,Webcam 1080p HD,Electronics,480,"2,00,000","9,60,00,000",Customer-075,Asia,Delhi,06:00 PM – 09:00 PM
+T000215,06-02-2025,PROD-001,Ergonomic Mesh Chair,Furniture,40,"4,50,000","1,80,00,000",Customer-111,Asia,Singapore,12:00 PM – 03:00 PM
+T000814,30-05-2025,PROD-002,Wireless Mechanical Keyboard,Electronics,160,"3,50,000","5,60,00,000",Customer-061,Asia,Delhi,06:00 PM – 09:00 PM
+T000327,05-03-2025,PROD-002,Wireless Mechanical Keyboard,Electronics,14,"3,50,000","49,00,000",Customer-064,Asia,Kolkata,06:00 PM – 09:00 PM
+T000561,15-04-2025,PROD-008,Executive Ballpoint Pen Box,Office Supplies,35,"1,20,000","42,00,000",Customer-071,North America,New York,09:00 AM – 11:00 AM
+T001113,28-07-2025,PROD-005,Noise-Cancelling Headphones,Electronics,38,"9,50,000","3,61,00,000",Customer-015,Asia,Delhi,06:00 PM – 09:00 PM
+T000701,05-05-2025,PROD-010,Webcam 1080p HD,Electronics,27,"2,00,000","54,00,000",Customer-053,Asia,Mumbai,06:00 PM – 09:00 PM
+T001579,21-10-2025,PROD-005,Noise-Cancelling Headphones,Electronics,10,"9,50,000","95,00,000",Customer-071,Asia,Delhi,06:00 PM – 09:00 PM
+T001190,15-08-2025,PROD-005,Noise-Cancelling Headphones,Electronics,42,"9,50,000","3,99,00,000",Customer-095,North America,New York,06:00 PM – 09:00 PM
+T000342,06-03-2025,PROD-005,Noise-Cancelling Headphones,Electronics,42,"9,50,000","3,99,00,000",Customer-090,Asia,Hyderabad,06:00 PM – 09:00 PM
+T000630,23-04-2025,PROD-005,Noise-Cancelling Headphones,Electronics,9,"9,50,000","85,50,000",Customer-099,Asia,Chennai,06:00 PM – 09:00 PM
+T000148,22-01-2025,PROD-008,Executive Ballpoint Pen Box,Office Supplies,31,"1,20,000","37,20,000",Customer-111,Asia,Mumbai,09:00 AM – 11:00 AM
+T001310,10-09-2025,PROD-001,Ergonomic Mesh Chair,Furniture,20,"4,50,000","90,00,000",Customer-028,Asia,Bengaluru,12:00 PM – 03:00 PM
+T000361,11-03-2025,PROD-006,A4 Printer Paper (500 Sheets),Office Supplies,26,"25,000","6,50,000",Customer-081,Asia,Pune,09:00 AM – 11:00 AM
+T000084,10-01-2025,PROD-001,Ergonomic Mesh Chair,Furniture,24,"4,50,000","1,08,00,000",Customer-042,Asia,Dubai,12:00 PM – 03:00 PM
+T000049,07-01-2025,PROD-010,Webcam 1080p HD,Electronics,35,"2,00,000","70,00,000",Customer-124,Asia,Chennai,06:00 PM – 09:00 PM
+T000469,31-03-2025,PROD-009,Adjustable Monitor Arm,Furniture,41,"1,80,000","73,80,000",Customer-108,Asia,Hyderabad,12:00 PM – 03:00 PM
+T000156,23-01-2025,PROD-007,USB-C Docking Station,Electronics,12,"2,50,000","30,00,000",Customer-092,Asia,Hyderabad,06:00 PM – 09:00 PM
+T000773,19-05-2025,PROD-003,27-inch 4K Monitor,Electronics,7,"12,00,000","84,00,000",Customer-071,Asia,Tokyo,06:00 PM – 09:00 PM
+T001240,26-08-2025,PROD-003,27-inch 4K Monitor,Electronics,360,"12,00,000","43,20,00,000",Customer-049,Asia,Dubai,06:00 PM – 09:00 PM
+T001201,19-08-2025,PROD-007,USB-C Docking Station,Electronics,36,"2,50,000","90,00,000",Customer-139,Asia,Pune,06:00 PM – 09:00 PM
+T001403,23-09-2025,PROD-002,Wireless Mechanical Keyboard,Electronics,45,"3,50,000","1,57,50,000",Customer-066,Asia,Mumbai,06:00 PM – 09:00 PM
+T001203,19-08-2025,PROD-001,Ergonomic Mesh Chair,Furniture,38,"4,50,000","1,71,00,000",Customer-049,Asia,Mumbai,12:00 PM – 03:00 PM
+T001631,30-10-2025,PROD-004,Standing Desk Converter,Furniture,26,"5,00,000","1,30,00,000",Customer-133,Europe,London,12:00 PM – 03:00 PM
+T000501,04-04-2025,PROD-001,Ergonomic Mesh Chair,Furniture,300,"4,50,000","13,50,00,000",Customer-100,Asia,Dubai,12:00 PM – 03:00 PM
+T001765,21-11-2025,PROD-001,Ergonomic Mesh Chair,Furniture,4,"4,50,000","18,00,000",Customer-069,Asia,Tokyo,12:00 PM – 03:00 PM
+T000180,30-01-2025,PROD-005,Noise-Cancelling Headphones,Electronics,37,"9,50,000","3,51,50,000",Customer-088,Asia,Kolkata,06:00 PM – 09:00 PM
+T001048,14-07-2025,PROD-008,Executive Ballpoint Pen Box,Office Supplies,33,"1,20,000","39,60,000",Customer-104,North America,New York,09:00 AM – 11:00 AM
+T001756,21-11-2025,PROD-007,USB-C Docking Station,Electronics,29,"2,50,000","72,50,000",Customer-085,Asia,Hyderabad,06:00 PM – 09:00 PM
+T000951,26-06-2025,PROD-002,Wireless Mechanical Keyboard,Electronics,15,"3,50,000","52,50,000",Customer-112,Asia,Kolkata,06:00 PM – 09:00 PM
+T001317,10-09-2025,PROD-010,Webcam 1080p HD,Electronics,36,"2,00,000","72,00,000",Customer-096,Asia,Pune,06:00 PM – 09:00 PM
+T001620,30-10-2025,PROD-001,Ergonomic Mesh Chair,Furniture,12,"4,50,000","54,00,000",Customer-087,Asia,Hyderabad,12:00 PM – 03:00 PM
+T000529,08-04-2025,PROD-003,27-inch 4K Monitor,Electronics,14,"12,00,000","1,68,00,000",Customer-131,Asia,Dubai,06:00 PM – 09:00 PM
+T000347,06-03-2025,PROD-010,Webcam 1080p HD,Electronics,18,"2,00,000","36,00,000",Customer-149,Asia,Kolkata,06:00 PM – 09:00 PM
+T001388,22-09-2025,PROD-004,Standing Desk Converter,Furniture,47,"5,00,000","2,35,00,000",Customer-148,Asia,Chennai,12:00 PM – 03:00 PM
+T001961,25-12-2025,PROD-007,USB-C Docking Station,Electronics,21,"2,50,000","52,50,000",Customer-068,Asia,Hyderabad,06:00 PM – 09:00 PM
+T001051,16-07-2025,PROD-002,Wireless Mechanical Keyboard,Electronics,23,"3,50,000","80,50,000",Customer-024,Asia,Tokyo,06:00 PM – 09:00 PM
+T001973,26-12-2025,PROD-008,Executive Ballpoint Pen Box,Office Supplies,30,"1,20,000","36,00,000",Customer-124,Asia,Bengaluru,09:00 AM – 11:00 AM
+T001442,26-09-2025,PROD-007,USB-C Docking Station,Electronics,36,"2,50,000","90,00,000",Customer-030,Asia,Pune,06:00 PM – 09:00 PM
+T000602,21-04-2025,PROD-008,Executive Ballpoint Pen Box,Office Supplies,34,"1,20,000","40,80,000",Customer-121,Asia,Bengaluru,09:00 AM – 11:00 AM
+T001282,05-09-2025,PROD-002,Wireless Mechanical Keyboard,Electronics,36,"3,50,000","1,26,00,000",Customer-040,Asia,Hyderabad,06:00 PM – 09:00 PM
+T000244,11-02-2025,PROD-001,Ergonomic Mesh Chair,Furniture,16,"4,50,000","72,00,000",Customer-026,Asia,Chennai,12:00 PM – 03:00 PM
+T001337,12-09-2025,PROD-001,Ergonomic Mesh Chair,Furniture,19,"4,50,000","85,50,000",Customer-087,Asia,Pune,12:00 PM – 03:00 PM
+T001068,17-07-2025,PROD-009,Adjustable Monitor Arm,Furniture,16,"1,80,000","28,80,000",Customer-037,Asia,Delhi,12:00 PM – 03:00 PM
+T001476,01-10-2025,PROD-007,USB-C Docking Station,Electronics,14,"2,50,000","35,00,000",Customer-001,Europe,London,06:00 PM – 09:00 PM
+T000313,04-03-2025,PROD-009,Adjustable Monitor Arm,Furniture,16,"1,80,000","28,80,000",Customer-065,Asia,Mumbai,12:00 PM – 03:00 PM
+T000436,26-03-2025,PROD-001,Ergonomic Mesh Chair,Furniture,41,"4,50,000","1,84,50,000",Customer-102,Asia,Tokyo,12:00 PM – 03:00 PM
+T001899,16-12-2025,PROD-008,Executive Ballpoint Pen Box,Office Supplies,170,"1,20,000","2,04,00,000",Customer-113,Asia,Kolkata,09:00 AM – 11:00 AM
+T001329,11-09-2025,PROD-001,Ergonomic Mesh Chair,Furniture,23,"4,50,000","1,03,50,000",Customer-007,Asia,Tokyo,12:00 PM – 03:00 PM
+T000309,28-02-2025,PROD-006,A4 Printer Paper (500 Sheets),Office Supplies,12,"25,000","3,00,000",Customer-139,Asia,Chennai,09:00 AM – 11:00 AM
+T000431,25-03-2025,PROD-002,Wireless Mechanical Keyboard,Electronics,9,"3,50,000","31,50,000",Customer-046,Asia,Hyderabad,06:00 PM – 09:00 PM
+T000661,28-04-2025,PROD-010,Webcam 1080p HD,Electronics,13,"2,00,000","26,00,000",Customer-076,Europe,London,06:00 PM – 09:00 PM
+T000371,11-03-2025,PROD-001,Ergonomic Mesh Chair,Furniture,30,"4,50,000","1,35,00,000",Customer-020,Asia,Singapore,12:00 PM – 03:00 PM
+T000567,15-04-2025,PROD-006,A4 Printer Paper (500 Sheets),Office Supplies,45,"25,000","11,25,000",Customer-049,Asia,Pune,09:00 AM – 11:00 AM
+T000980,02-07-2025,PROD-005,Noise-Cancelling Headphones,Electronics,15,"9,50,000","1,42,50,000",Customer-031,Asia,Tokyo,06:00 PM – 09:00 PM
+T000182,30-01-2025,PROD-001,Ergonomic Mesh Chair,Furniture,25,"4,50,000","1,12,50,000",Customer-038,Asia,Kolkata,12:00 PM – 03:00 PM
+T001363,18-09-2025,PROD-001,Ergonomic Mesh Chair,Furniture,18,"4,50,000","81,00,000",Customer-050,Asia,Singapore,12:00 PM – 03:00 PM
+T000622,22-04-2025,PROD-007,USB-C Docking Station,Electronics,38,"2,50,000","95,00,000",Customer-015,Europe,London,06:00 PM – 09:00 PM
+T000819,30-05-2025,PROD-009,Adjustable Monitor Arm,Furniture,24,"1,80,000","43,20,000",Customer-004,Europe,London,12:00 PM – 03:00 PM
+T001193,15-08-2025,PROD-004,Standing Desk Converter,Furniture,280,"5,00,000","14,00,00,000",Customer-019,Asia,Kolkata,12:00 PM – 03:00 PM
+T000953,27-06-2025,PROD-009,Adjustable Monitor Arm,Furniture,48,"1,80,000","86,40,000",Customer-009,Asia,Dubai,12:00 PM – 03:00 PM
+T001422,24-09-2025,PROD-008,Executive Ballpoint Pen Box,Office Supplies,34,"1,20,000","40,80,000",Customer-025,Asia,Kolkata,09:00 AM – 11:00 AM
+T001841,04-12-2025,PROD-009,Adjustable Monitor Arm,Furniture,39,"1,80,000","70,20,000",Customer-079,Asia,Pune,12:00 PM – 03:00 PM
+T000923,23-06-2025,PROD-002,Wireless Mechanical Keyboard,Electronics,48,"3,50,000","1,68,00,000",Customer-010,Asia,Mumbai,06:00 PM – 09:00 PM
+T001074,23-07-2025,PROD-007,USB-C Docking Station,Electronics,20,"2,50,000","50,00,000",Customer-088,Asia,Kolkata,06:00 PM – 09:00 PM
+T000297,28-02-2025,PROD-010,Webcam 1080p HD,Electronics,17,"2,00,000","34,00,000",Customer-052,Asia,Bengaluru,06:00 PM – 09:00 PM
+T000967,30-06-2025,PROD-009,Adjustable Monitor Arm,Furniture,41,"1,80,000","73,80,000",Customer-108,North America,New York,12:00 PM – 03:00 PM
+T000462,28-03-2025,PROD-001,Ergonomic Mesh Chair,Furniture,45,"4,50,000","2,02,50,000",Customer-031,Asia,Mumbai,12:00 PM – 03:00 PM
+T001303,10-09-2025,PROD-009,Adjustable Monitor Arm,Furniture,40,"1,80,000","72,00,000",Customer-036,North America,New York,12:00 PM – 03:00 PM
+T001177,13-08-2025,PROD-003,27-inch 4K Monitor,Electronics,26,"12,00,000","3,12,00,000",Customer-040,Asia,Delhi,06:00 PM – 09:00 PM
+T000378,12-03-2025,PROD-005,Noise-Cancelling Headphones,Electronics,6,"9,50,000","57,00,000",Customer-142,Asia,Pune,06:00 PM – 09:00 PM
+T000799,22-05-2025,PROD-008,Executive Ballpoint Pen Box,Office Supplies,6,"1,20,000","7,20,000",Customer-021,Asia,Bengaluru,09:00 AM – 11:00 AM
+T001103,25-07-2025,PROD-002,Wireless Mechanical Keyboard,Electronics,36,"3,50,000","1,26,00,000",Customer-026,Asia,Singapore,06:00 PM – 09:00 PM
+T000106,16-01-2025,PROD-010,Webcam 1080p HD,Electronics,42,"2,00,000","84,00,000",Customer-067,Asia,Singapore,06:00 PM – 09:00 PM
+T000127,20-01-2025,PROD-004,Standing Desk Converter,Furniture,41,"5,00,000","2,05,00,000",Customer-094,Asia,Chennai,12:00 PM – 03:00 PM
+T001996,31-12-2025,PROD-008,Executive Ballpoint Pen Box,Office Supplies,39,"1,20,000","46,80,000",Customer-135,Asia,Hyderabad,09:00 AM – 11:00 AM
+T000839,05-06-2025,PROD-002,Wireless Mechanical Keyboard,Electronics,21,"3,50,000","73,50,000",Customer-084,Asia,Pune,06:00 PM – 09:00 PM
+T000356,10-03-2025,PROD-002,Wireless Mechanical Keyboard,Electronics,50,"3,50,000","1,75,00,000",Customer-006,Europe,London,06:00 PM – 09:00 PM
+T001617,29-10-2025,PROD-007,USB-C Docking Station,Electronics,18,"2,50,000","45,00,000",Customer-048,Asia,Bengaluru,06:00 PM – 09:00 PM
+T000683,01-05-2025,PROD-006,A4 Printer Paper (500 Sheets),Office Supplies,41,"25,000","10,25,000",Customer-041,Asia,Dubai,09:00 AM – 11:00 AM
+T000813,30-05-2025,PROD-010,Webcam 1080p HD,Electronics,28,"2,00,000","56,00,000",Customer-013,Asia,Singapore,06:00 PM – 09:00 PM
+T001681,07-11-2025,PROD-005,Noise-Cancelling Headphones,Electronics,390,"9,50,000","37,05,00,000",Customer-053,North America,New York,06:00 PM – 09:00 PM
+T000210,06-02-2025,PROD-004,Standing Desk Converter,Furniture,35,"5,00,000","1,75,00,000",Customer-041,Asia,Delhi,12:00 PM – 03:00 PM
+T001493,07-10-2025,PROD-004,Standing Desk Converter,Furniture,7,"5,00,000","35,00,000",Customer-091,Asia,Hyderabad,12:00 PM – 03:00 PM
+T000141,21-01-2025,PROD-001,Ergonomic Mesh Chair,Furniture,30,"4,50,000","1,35,00,000",Customer-105,Asia,Singapore,12:00 PM – 03:00 PM
+T001975,26-12-2025,PROD-002,Wireless Mechanical Keyboard,Electronics,8,"3,50,000","28,00,000",Customer-104,Europe,London,06:00 PM – 09:00 PM
+T001340,12-09-2025,PROD-008,Executive Ballpoint Pen Box,Office Supplies,41,"1,20,000","49,20,000",Customer-127,Asia,Bengaluru,09:00 AM – 11:00 AM
+T001798,26-11-2025,PROD-008,Executive Ballpoint Pen Box,Office Supplies,26,"1,20,000","31,20,000",Customer-080,Asia,Mumbai,09:00 AM – 11:00 AM
+T001575,21-10-2025,PROD-007,USB-C Docking Station,Electronics,36,"2,50,000","90,00,000",Customer-078,Asia,Hyderabad,06:00 PM – 09:00 PM
+T001182,14-08-2025,PROD-009,Adjustable Monitor Arm,Furniture,40,"1,80,000","72,00,000",Customer-035,Asia,Hyderabad,12:00 PM – 03:00 PM
+T001394,22-09-2025,PROD-005,Noise-Cancelling Headphones,Electronics,48,"9,50,000","4,56,00,000",Customer-118,Asia,Tokyo,06:00 PM – 09:00 PM
+T001816,01-12-2025,PROD-007,USB-C Docking Station,Electronics,34,"2,50,000","85,00,000",Customer-099,Asia,Chennai,06:00 PM – 09:00 PM
+T000712,08-05-2025,PROD-008,Executive Ballpoint Pen Box,Office Supplies,28,"1,20,000","33,60,000",Customer-089,North America,New York,09:00 AM – 11:00 AM
+T001794,26-11-2025,PROD-001,Ergonomic Mesh Chair,Furniture,27,"4,50,000","1,21,50,000",Customer-044,Asia,Bengaluru,12:00 PM – 03:00 PM
+T000893,16-06-2025,PROD-002,Wireless Mechanical Keyboard,Electronics,36,"3,50,000","1,26,00,000",Customer-012,Asia,Hyderabad,06:00 PM – 09:00 PM
+T000860,11-06-2025,PROD-001,Ergonomic Mesh Chair,Furniture,40,"4,50,000","1,80,00,000",Customer-013,Europe,London,12:00 PM – 03:00 PM
+T000011,02-01-2025,PROD-003,27-inch 4K Monitor,Electronics,30,"12,00,000","3,60,00,000",Customer-003,Europe,London,06:00 PM – 09:00 PM
+T001695,11-11-2025,PROD-003,27-inch 4K Monitor,Electronics,10,"12,00,000","1,20,00,000",Customer-015,North America,New York,06:00 PM – 09:00 PM
+T001428,25-09-2025,PROD-003,27-inch 4K Monitor,Electronics,29,"12,00,000","3,48,00,000",Customer-011,Asia,Singapore,06:00 PM – 09:00 PM
+T000283,26-02-2025,PROD-007,USB-C Docking Station,Electronics,24,"2,50,000","60,00,000",Customer-061,Asia,Hyderabad,06:00 PM – 09:00 PM
+T000811,30-05-2025,PROD-009,Adjustable Monitor Arm,Furniture,28,"1,80,000","50,40,000",Customer-032,Asia,Kolkata,12:00 PM – 03:00 PM
+T001342,12-09-2025,PROD-007,USB-C Docking Station,Electronics,42,"2,50,000","1,05,00,000",Customer-032,Asia,Hyderabad,06:00 PM – 09:00 PM
+T000292,27-02-2025,PROD-010,Webcam 1080p HD,Electronics,6,"2,00,000","12,00,000",Customer-105,Asia,Pune,06:00 PM – 09:00 PM
+T000755,16-05-2025,PROD-005,Noise-Cancelling Headphones,Electronics,18,"9,50,000","1,71,00,000",Customer-092,Asia,Kolkata,06:00 PM – 09:00 PM
+T000627,23-04-2025,PROD-001,Ergonomic Mesh Chair,Furniture,9,"4,50,000","40,50,000",Customer-134,North America,New York,12:00 PM – 03:00 PM
+T000944,26-06-2025,PROD-007,USB-C Docking Station,Electronics,410,"2,50,000","10,25,00,000",Customer-121,North America,New York,06:00 PM – 09:00 PM
+T000862,11-06-2025,PROD-003,27-inch 4K Monitor,Electronics,310,"12,00,000","37,20,00,000",Customer-066,Asia,Mumbai,06:00 PM – 09:00 PM
+T000130,20-01-2025,PROD-005,Noise-Cancelling Headphones,Electronics,25,"9,50,000","2,37,50,000",Customer-097,Asia,Pune,06:00 PM – 09:00 PM
+T001176,13-08-2025,PROD-003,27-inch 4K Monitor,Electronics,410,"12,00,000","49,20,00,000",Customer-034,Asia,Tokyo,06:00 PM – 09:00 PM
+T000324,05-03-2025,PROD-008,Executive Ballpoint Pen Box,Office Supplies,20,"1,20,000","24,00,000",Customer-107,Asia,Mumbai,09:00 AM – 11:00 AM
+T001091,24-07-2025,PROD-002,Wireless Mechanical Keyboard,Electronics,230,"3,50,000","8,05,00,000",Customer-120,Asia,Delhi,06:00 PM – 09:00 PM
+T000844,05-06-2025,PROD-007,USB-C Docking Station,Electronics,23,"2,50,000","57,50,000",Customer-124,Asia,Chennai,06:00 PM – 09:00 PM
+T000964,30-06-2025,PROD-009,Adjustable Monitor Arm,Furniture,19,"1,80,000","34,20,000",Customer-129,Asia,Bengaluru,12:00 PM – 03:00 PM
+T001865,08-12-2025,PROD-005,Noise-Cancelling Headphones,Electronics,160,"9,50,000","15,20,00,000",Customer-024,Asia,Pune,06:00 PM – 09:00 PM
+T000866,12-06-2025,PROD-002,Wireless Mechanical Keyboard,Electronics,45,"3,50,000","1,57,50,000",Customer-123,Asia,Delhi,06:00 PM – 09:00 PM
+T000922,23-06-2025,PROD-008,Executive Ballpoint Pen Box,Office Supplies,5,"1,20,000","6,00,000",Customer-146,Asia,Kolkata,09:00 AM – 11:00 AM
+T000696,05-05-2025,PROD-002,Wireless Mechanical Keyboard,Electronics,34,"3,50,000","1,19,00,000",Customer-016,Asia,Kolkata,06:00 PM – 09:00 PM
+T000216,06-02-2025,PROD-010,Webcam 1080p HD,Electronics,470,"2,00,000","9,40,00,000",Customer-133,Asia,Hyderabad,06:00 PM – 09:00 PM
+T001781,25-11-2025,PROD-002,Wireless Mechanical Keyboard,Electronics,46,"3,50,000","1,61,00,000",Customer-083,Asia,Kolkata,06:00 PM – 09:00 PM
+T001262,27-08-2025,PROD-010,Webcam 1080p HD,Electronics,31,"2,00,000","62,00,000",Customer-090,Asia,Tokyo,06:00 PM – 09:00 PM
+T000159,23-01-2025,PROD-009,Adjustable Monitor Arm,Furniture,8,"1,80,000","14,40,000",Customer-081,Asia,Mumbai,12:00 PM – 03:00 PM
+T001059,16-07-2025,PROD-001,Ergonomic Mesh Chair,Furniture,38,"4,50,000","1,71,00,000",Customer-031,Asia,Delhi,12:00 PM – 03:00 PM
+T000989,04-07-2025,PROD-004,Standing Desk Converter,Furniture,48,"5,00,000","2,40,00,000",Customer-111,Asia,Chennai,12:00 PM – 03:00 PM
+T000842,05-06-2025,PROD-002,Wireless Mechanical Keyboard,Electronics,10,"3,50,000","35,00,000",Customer-015,Asia,Chennai,06:00 PM – 09:00 PM
+T000635,23-04-2025,PROD-007,USB-C Docking Station,Electronics,13,"2,50,000","32,50,000",Customer-090,Asia,Mumbai,06:00 PM – 09:00 PM
+T000517,07-04-2025,PROD-003,27-inch 4K Monitor,Electronics,49,"12,00,000","5,88,00,000",Customer-037,Asia,Tokyo,06:00 PM – 09:00 PM
+T001429,25-09-2025,PROD-006,A4 Printer Paper (500 Sheets),Office Supplies,10,"25,000","2,50,000",Customer-025,Asia,Pune,09:00 AM – 11:00 AM
+T001748,19-11-2025,PROD-003,27-inch 4K Monitor,Electronics,9,"12,00,000","1,08,00,000",Customer-048,Asia,Kolkata,06:00 PM – 09:00 PM
+T000598,21-04-2025,PROD-001,Ergonomic Mesh Chair,Furniture,30,"4,50,000","1,35,00,000",Customer-142,Asia,Bengaluru,12:00 PM – 03:00 PM
+T000196,05-02-2025,PROD-009,Adjustable Monitor Arm,Furniture,9,"1,80,000","16,20,000",Customer-077,Europe,London,12:00 PM – 03:00 PM
+T001784,25-11-2025,PROD-007,USB-C Docking Station,Electronics,21,"2,50,000","52,50,000",Customer-126,Asia,Dubai,06:00 PM – 09:00 PM
+T000870,12-06-2025,PROD-007,USB-C Docking Station,Electronics,23,"2,50,000","57,50,000",Customer-036,Asia,Singapore,06:00 PM – 09:00 PM
+T000411,17-03-2025,PROD-003,27-inch 4K Monitor,Electronics,43,"12,00,000","5,16,00,000",Customer-006,Europe,London,06:00 PM – 09:00 PM
+T000097,15-01-2025,PROD-004,Standing Desk Converter,Furniture,36,"5,00,000","1,80,00,000",Customer-053,Asia,Tokyo,12:00 PM – 03:00 PM
+T001001,09-07-2025,PROD-002,Wireless Mechanical Keyboard,Electronics,29,"3,50,000","1,01,50,000",Customer-019,North America,New York,06:00 PM – 09:00 PM
+T001506,09-10-2025,PROD-007,USB-C Docking Station,Electronics,410,"2,50,000","10,25,00,000",Customer-147,Asia,Tokyo,06:00 PM – 09:00 PM
+T000157,23-01-2025,PROD-002,Wireless Mechanical Keyboard,Electronics,20,"3,50,000","70,00,000",Customer-092,Asia,Tokyo,06:00 PM – 09:00 PM
+T000420,24-03-2025,PROD-008,Executive Ballpoint Pen Box,Office Supplies,48,"1,20,000","57,60,000",Customer-002,Asia,Delhi,09:00 AM – 11:00 AM
+T001803,27-11-2025,PROD-007,USB-C Docking Station,Electronics,44,"2,50,000","1,10,00,000",Customer-005,Asia,Mumbai,06:00 PM – 09:00 PM
+T000478,01-04-2025,PROD-003,27-inch 4K Monitor,Electronics,22,"12,00,000","2,64,00,000",Customer-020,Asia,Singapore,06:00 PM – 09:00 PM
+T001856,05-12-2025,PROD-007,USB-C Docking Station,Electronics,46,"2,50,000","1,15,00,000",Customer-030,Asia,Singapore,06:00 PM – 09:00 PM
+T000669,30-04-2025,PROD-004,Standing Desk Converter,Furniture,40,"5,00,000","2,00,00,000",Customer-066,Asia,Bengaluru,12:00 PM – 03:00 PM
+T001418,24-09-2025,PROD-008,Executive Ballpoint Pen Box,Office Supplies,27,"1,20,000","32,40,000",Customer-112,Asia,Tokyo,09:00 AM – 11:00 AM
+T001872,09-12-2025,PROD-004,Standing Desk Converter,Furniture,37,"5,00,000","1,85,00,000",Customer-107,Asia,Kolkata,12:00 PM – 03:00 PM
+T001300,09-09-2025,PROD-002,Wireless Mechanical Keyboard,Electronics,46,"3,50,000","1,61,00,000",Customer-054,Europe,London,06:00 PM – 09:00 PM
+T000448,27-03-2025,PROD-008,Executive Ballpoint Pen Box,Office Supplies,44,"1,20,000","52,80,000",Customer-039,Asia,Kolkata,09:00 AM – 11:00 AM
+T000554,15-04-2025,PROD-005,Noise-Cancelling Headphones,Electronics,33,"9,50,000","3,13,50,000",Customer-011,Asia,Bengaluru,06:00 PM – 09:00 PM
+T000179,30-01-2025,PROD-006,A4 Printer Paper (500 Sheets),Office Supplies,46,"25,000","11,50,000",Customer-071,North America,New York,09:00 AM – 11:00 AM
+T000391,13-03-2025,PROD-003,27-inch 4K Monitor,Electronics,80,"12,00,000","9,60,00,000",Customer-011,Asia,Singapore,06:00 PM – 09:00 PM
+T000579,16-04-2025,PROD-003,27-inch 4K Monitor,Electronics,220,"12,00,000","26,40,00,000",Customer-080,Asia,Chennai,06:00 PM – 09:00 PM
+T001478,01-10-2025,PROD-003,27-inch 4K Monitor,Electronics,15,"12,00,000","1,80,00,000",Customer-071,Asia,Dubai,06:00 PM – 09:00 PM
+T001707,13-11-2025,PROD-001,Ergonomic Mesh Chair,Furniture,14,"4,50,000","63,00,000",Customer-092,Asia,Singapore,12:00 PM – 03:00 PM
+T001288,05-09-2025,PROD-003,27-inch 4K Monitor,Electronics,480,"12,00,000","57,60,00,000",Customer-051,Europe,London,06:00 PM – 09:00 PM
+T001645,31-10-2025,PROD-004,Standing Desk Converter,Furniture,8,"5,00,000","40,00,000",Customer-073,Asia,Delhi,12:00 PM – 03:00 PM
+T001024,10-07-2025,PROD-007,USB-C Docking Station,Electronics,29,"2,50,000","72,50,000",Customer-132,Asia,Pune,06:00 PM – 09:00 PM
+T000821,30-05-2025,PROD-008,Executive Ballpoint Pen Box,Office Supplies,13,"1,20,000","15,60,000",Customer-100,Europe,London,09:00 AM – 11:00 AM
+T001825,03-12-2025,PROD-009,Adjustable Monitor Arm,Furniture,35,"1,80,000","63,00,000",Customer-032,Asia,Dubai,12:00 PM – 03:00 PM
+T000985,04-07-2025,PROD-005,Noise-Cancelling Headphones,Electronics,36,"9,50,000","3,42,00,000",Customer-113,Asia,Pune,06:00 PM – 09:00 PM
+T001339,12-09-2025,PROD-004,Standing Desk Converter,Furniture,28,"5,00,000","1,40,00,000",Customer-110,Asia,Bengaluru,12:00 PM – 03:00 PM
+T000665,30-04-2025,PROD-002,Wireless Mechanical Keyboard,Electronics,33,"3,50,000","1,15,50,000",Customer-149,Asia,Delhi,06:00 PM – 09:00 PM
+T000143,21-01-2025,PROD-002,Wireless Mechanical Keyboard,Electronics,36,"3,50,000","1,26,00,000",Customer-058,Europe,London,06:00 PM – 09:00 PM
+T001517,10-10-2025,PROD-009,Adjustable Monitor Arm,Furniture,26,"1,80,000","46,80,000",Customer-009,Asia,Pune,12:00 PM – 03:00 PM
+T001430,25-09-2025,PROD-002,Wireless Mechanical Keyboard,Electronics,26,"3,50,000","91,00,000",Customer-099,Asia,Dubai,06:00 PM – 09:00 PM
+T000865,11-06-2025,PROD-005,Noise-Cancelling Headphones,Electronics,25,"9,50,000","2,37,50,000",Customer-069,Europe,London,06:00 PM – 09:00 PM
+T000422,24-03-2025,PROD-002,Wireless Mechanical Keyboard,Electronics,31,"3,50,000","1,08,50,000",Customer-116,Asia,Delhi,06:00 PM – 09:00 PM
+T000637,24-04-2025,PROD-001,Ergonomic Mesh Chair,Furniture,44,"4,50,000","1,98,00,000",Customer-004,Asia,Pune,12:00 PM – 03:00 PM
+T001407,23-09-2025,PROD-005,Noise-Cancelling Headphones,Electronics,11,"9,50,000","1,04,50,000",Customer-030,Asia,Chennai,06:00 PM – 09:00 PM
+T000800,22-05-2025,PROD-005,Noise-Cancelling Headphones,Electronics,31,"9,50,000","2,94,50,000",Customer-061,Asia,Bengaluru,06:00 PM – 09:00 PM
+T001404,23-09-2025,PROD-006,A4 Printer Paper (500 Sheets),Office Supplies,31,"25,000","7,75,000",Customer-124,Asia,Chennai,09:00 AM – 11:00 AM
+T000616,22-04-2025,PROD-002,Wireless Mechanical Keyboard,Electronics,50,"3,50,000","1,75,00,000",Customer-051,Asia,Delhi,06:00 PM – 09:00 PM
+T000295,27-02-2025,PROD-005,Noise-Cancelling Headphones,Electronics,8,"9,50,000","76,00,000",Customer-128,Asia,Pune,06:00 PM – 09:00 PM
+T000924,23-06-2025,PROD-001,Ergonomic Mesh Chair,Furniture,30,"4,50,000","1,35,00,000",Customer-053,Asia,Pune,12:00 PM – 03:00 PM
+T001269,04-09-2025,PROD-001,Ergonomic Mesh Chair,Furniture,8,"4,50,000","36,00,000",Customer-143,Asia,Dubai,12:00 PM – 03:00 PM
+T001903,16-12-2025,PROD-001,Ergonomic Mesh Chair,Furniture,36,"4,50,000","1,62,00,000",Customer-125,Asia,Bengaluru,12:00 PM – 03:00 PM
+T000089,10-01-2025,PROD-007,USB-C Docking Station,Electronics,26,"2,50,000","65,00,000",Customer-019,Asia,Delhi,06:00 PM – 09:00 PM
+T000042,06-01-2025,PROD-007,USB-C Docking Station,Electronics,490,"2,50,000","12,25,00,000",Customer-134,Asia,Singapore,06:00 PM – 09:00 PM
+T001802,27-11-2025,PROD-006,A4 Printer Paper (500 Sheets),Office Supplies,33,"25,000","8,25,000",Customer-086,Asia,Dubai,09:00 AM – 11:00 AM
+T001934,23-12-2025,PROD-005,Noise-Cancelling Headphones,Electronics,37,"9,50,000","3,51,50,000",Customer-063,Asia,Chennai,06:00 PM – 09:00 PM
+T000132,20-01-2025,PROD-008,Executive Ballpoint Pen Box,Office Supplies,12,"1,20,000","14,40,000",Customer-014,Asia,Kolkata,09:00 AM – 11:00 AM
+T001002,09-07-2025,PROD-005,Noise-Cancelling Headphones,Electronics,250,"9,50,000","23,75,00,000",Customer-104,North America,New York,06:00 PM – 09:00 PM
+T001158,12-08-2025,PROD-001,Ergonomic Mesh Chair,Furniture,500,"4,50,000","22,50,00,000",Customer-123,Asia,Mumbai,12:00 PM – 03:00 PM
+T001095,25-07-2025,PROD-001,Ergonomic Mesh Chair,Furniture,14,"4,50,000","63,00,000",Customer-010,Asia,Dubai,12:00 PM – 03:00 PM
+T001855,05-12-2025,PROD-009,Adjustable Monitor Arm,Furniture,28,"1,80,000","50,40,000",Customer-047,Asia,Delhi,12:00 PM – 03:00 PM
+T001345,12-09-2025,PROD-002,Wireless Mechanical Keyboard,Electronics,310,"3,50,000","10,85,00,000",Customer-076,Asia,Bengaluru,06:00 PM – 09:00 PM
+T001499,08-10-2025,PROD-008,Executive Ballpoint Pen Box,Office Supplies,34,"1,20,000","40,80,000",Customer-105,Asia,Dubai,09:00 AM – 11:00 AM
+T000165,28-01-2025,PROD-010,Webcam 1080p HD,Electronics,18,"2,00,000","36,00,000",Customer-135,Asia,Singapore,06:00 PM – 09:00 PM
+T000725,12-05-2025,PROD-003,27-inch 4K Monitor,Electronics,48,"12,00,000","5,76,00,000",Customer-016,Asia,Chennai,06:00 PM – 09:00 PM
+T000291,27-02-2025,PROD-008,Executive Ballpoint Pen Box,Office Supplies,5,"1,20,000","6,00,000",Customer-039,Asia,Dubai,09:00 AM – 11:00 AM
+T001209,20-08-2025,PROD-001,Ergonomic Mesh Chair,Furniture,34,"4,50,000","1,53,00,000",Customer-082,Asia,Chennai,12:00 PM – 03:00 PM
+T001589,22-10-2025,PROD-002,Wireless Mechanical Keyboard,Electronics,43,"3,50,000","1,50,50,000",Customer-135,Asia,Pune,06:00 PM – 09:00 PM
+T001897,16-12-2025,PROD-009,Adjustable Monitor Arm,Furniture,27,"1,80,000","48,60,000",Customer-110,Asia,Dubai,12:00 PM – 03:00 PM
+T001642,31-10-2025,PROD-009,Adjustable Monitor Arm,Furniture,48,"1,80,000","86,40,000",Customer-077,Asia,Tokyo,12:00 PM – 03:00 PM
+T001362,18-09-2025,PROD-010,Webcam 1080p HD,Electronics,130,"2,00,000","2,60,00,000",Customer-022,Asia,Pune,06:00 PM – 09:00 PM
+T000779,21-05-2025,PROD-008,Executive Ballpoint Pen Box,Office Supplies,7,"1,20,000","8,40,000",Customer-086,Asia,Kolkata,09:00 AM – 11:00 AM
+T000840,05-06-2025,PROD-004,Standing Desk Converter,Furniture,110,"5,00,000","5,50,00,000",Customer-004,Asia,Bengaluru,12:00 PM – 03:00 PM
+T000349,10-03-2025,PROD-002,Wireless Mechanical Keyboard,Electronics,180,"3,50,000","6,30,00,000",Customer-079,Asia,Kolkata,06:00 PM – 09:00 PM
+T001945,23-12-2025,PROD-002,Wireless Mechanical Keyboard,Electronics,25,"3,50,000","87,50,000",Customer-076,Asia,Kolkata,06:00 PM – 09:00 PM
+T000572,16-04-2025,PROD-005,Noise-Cancelling Headphones,Electronics,470,"9,50,000","44,65,00,000",Customer-044,Asia,Dubai,06:00 PM – 09:00 PM
+T000918,23-06-2025,PROD-007,USB-C Docking Station,Electronics,6,"2,50,000","15,00,000",Customer-084,Asia,Hyderabad,06:00 PM – 09:00 PM
+T000977,02-07-2025,PROD-006,A4 Printer Paper (500 Sheets),Office Supplies,14,"25,000","3,50,000",Customer-119,Asia,Pune,09:00 AM – 11:00 AM
+T001914,19-12-2025,PROD-002,Wireless Mechanical Keyboard,Electronics,290,"3,50,000","10,15,00,000",Customer-048,Asia,Bengaluru,06:00 PM – 09:00 PM
+T001469,01-10-2025,PROD-009,Adjustable Monitor Arm,Furniture,12,"1,80,000","21,60,000",Customer-021,Asia,Bengaluru,12:00 PM – 03:00 PM
+T001592,22-10-2025,PROD-003,27-inch 4K Monitor,Electronics,16,"12,00,000","1,92,00,000",Customer-078,Asia,Singapore,06:00 PM – 09:00 PM
+T001318,11-09-2025,PROD-009,Adjustable Monitor Arm,Furniture,34,"1,80,000","61,20,000",Customer-090,Asia,Pune,12:00 PM – 03:00 PM
+T001845,04-12-2025,PROD-007,USB-C Docking Station,Electronics,22,"2,50,000","55,00,000",Customer-072,Asia,Tokyo,06:00 PM – 09:00 PM
+T000137,21-01-2025,PROD-009,Adjustable Monitor Arm,Furniture,23,"1,80,000","41,40,000",Customer-139,Asia,Chennai,12:00 PM – 03:00 PM
+T000459,28-03-2025,PROD-009,Adjustable Monitor Arm,Furniture,44,"1,80,000","79,20,000",Customer-088,Asia,Pune,12:00 PM – 03:00 PM
+T000376,12-03-2025,PROD-008,Executive Ballpoint Pen Box,Office Supplies,32,"1,20,000","38,40,000",Customer-134,Asia,Hyderabad,09:00 AM – 11:00 AM
+T001343,12-09-2025,PROD-006,A4 Printer Paper (500 Sheets),Office Supplies,35,"25,000","8,75,000",Customer-141,Asia,Delhi,09:00 AM – 11:00 AM
+T000334,05-03-2025,PROD-005,Noise-Cancelling Headphones,Electronics,24,"9,50,000","2,28,00,000",Customer-008,Asia,Kolkata,06:00 PM – 09:00 PM
+T001160,12-08-2025,PROD-003,27-inch 4K Monitor,Electronics,500,"12,00,000","60,00,00,000",Customer-142,North America,New York,06:00 PM – 09:00 PM
+T001761,21-11-2025,PROD-005,Noise-Cancelling Headphones,Electronics,100,"9,50,000","9,50,00,000",Customer-046,Europe,London,06:00 PM – 09:00 PM
+T001458,30-09-2025,PROD-002,Wireless Mechanical Keyboard,Electronics,34,"3,50,000","1,19,00,000",Customer-010,Asia,Delhi,06:00 PM – 09:00 PM
+T000817,30-05-2025,PROD-007,USB-C Docking Station,Electronics,100,"2,50,000","2,50,00,000",Customer-141,Asia,Mumbai,06:00 PM – 09:00 PM
+T001115,28-07-2025,PROD-006,A4 Printer Paper (500 Sheets),Office Supplies,29,"25,000","7,25,000",Customer-049,Asia,Bengaluru,09:00 AM – 11:00 AM
+T001006,09-07-2025,PROD-001,Ergonomic Mesh Chair,Furniture,190,"4,50,000","8,55,00,000",Customer-007,Asia,Bengaluru,12:00 PM – 03:00 PM
+T001857,05-12-2025,PROD-005,Noise-Cancelling Headphones,Electronics,22,"9,50,000","2,09,00,000",Customer-036,Asia,Mumbai,06:00 PM – 09:00 PM
+T001955,24-12-2025,PROD-002,Wireless Mechanical Keyboard,Electronics,30,"3,50,000","1,05,00,000",Customer-103,Europe,London,06:00 PM – 09:00 PM
+T001851,05-12-2025,PROD-008,Executive Ballpoint Pen Box,Office Supplies,45,"1,20,000","54,00,000",Customer-097,Asia,Singapore,09:00 AM – 11:00 AM
+T000911,19-06-2025,PROD-008,Executive Ballpoint Pen Box,Office Supplies,31,"1,20,000","37,20,000",Customer-055,Asia,Tokyo,09:00 AM – 11:00 AM
+T001930,22-12-2025,PROD-005,Noise-Cancelling Headphones,Electronics,15,"9,50,000","1,42,50,000",Customer-122,Asia,Pune,06:00 PM – 09:00 PM
+T001126,05-08-2025,PROD-008,Executive Ballpoint Pen Box,Office Supplies,29,"1,20,000","34,80,000",Customer-100,Asia,Singapore,09:00 AM – 11:00 AM
+T000329,05-03-2025,PROD-006,A4 Printer Paper (500 Sheets),Office Supplies,24,"25,000","6,00,000",Customer-075,Asia,Tokyo,09:00 AM – 11:00 AM
+T001248,26-08-2025,PROD-010,Webcam 1080p HD,Electronics,13,"2,00,000","26,00,000",Customer-056,Asia,Singapore,06:00 PM – 09:00 PM
+T000319,04-03-2025,PROD-009,Adjustable Monitor Arm,Furniture,43,"1,80,000","77,40,000",Customer-137,Asia,Kolkata,12:00 PM – 03:00 PM
+T001690,07-11-2025,PROD-003,27-inch 4K Monitor,Electronics,420,"12,00,000","50,40,00,000",Customer-008,Asia,Hyderabad,06:00 PM – 09:00 PM
+T001359,17-09-2025,PROD-009,Adjustable Monitor Arm,Furniture,12,"1,80,000","21,60,000",Customer-024,Asia,Tokyo,12:00 PM – 03:00 PM
+T001733,17-11-2025,PROD-005,Noise-Cancelling Headphones,Electronics,80,"9,50,000","7,60,00,000",Customer-130,Asia,Tokyo,06:00 PM – 09:00 PM
+T000168,28-01-2025,PROD-008,Executive Ballpoint Pen Box,Office Supplies,6,"1,20,000","7,20,000",Customer-051,Asia,Dubai,09:00 AM – 11:00 AM
+T000013,02-01-2025,PROD-009,Adjustable Monitor Arm,Furniture,17,"1,80,000","30,60,000",Customer-047,Europe,London,12:00 PM – 03:00 PM
+T001927,22-12-2025,PROD-008,Executive Ballpoint Pen Box,Office Supplies,45,"1,20,000","54,00,000",Customer-076,Asia,Hyderabad,09:00 AM – 11:00 AM
+T000172,28-01-2025,PROD-005,Noise-Cancelling Headphones,Electronics,10,"9,50,000","95,00,000",Customer-145,Asia,Tokyo,06:00 PM – 09:00 PM
+T000650,25-04-2025,PROD-009,Adjustable Monitor Arm,Furniture,31,"1,80,000","55,80,000",Customer-079,Asia,Singapore,12:00 PM – 03:00 PM
+T001062,16-07-2025,PROD-004,Standing Desk Converter,Furniture,27,"5,00,000","1,35,00,000",Customer-019,Asia,Kolkata,12:00 PM – 03:00 PM
+T000261,24-02-2025,PROD-004,Standing Desk Converter,Furniture,41,"5,00,000","2,05,00,000",Customer-131,Asia,Bengaluru,12:00 PM – 03:00 PM
+T001367,18-09-2025,PROD-006,A4 Printer Paper (500 Sheets),Office Supplies,20,"25,000","5,00,000",Customer-115,Asia,Dubai,09:00 AM – 11:00 AM
+T001549,15-10-2025,PROD-009,Adjustable Monitor Arm,Furniture,26,"1,80,000","46,80,000",Customer-036,Asia,Kolkata,12:00 PM – 03:00 PM
+T000902,17-06-2025,PROD-007,USB-C Docking Station,Electronics,27,"2,50,000","67,50,000",Customer-010,Asia,Hyderabad,06:00 PM – 09:00 PM
+T000673,30-04-2025,PROD-009,Adjustable Monitor Arm,Furniture,10,"1,80,000","18,00,000",Customer-133,Asia,Kolkata,12:00 PM – 03:00 PM
+T000259,24-02-2025,PROD-003,27-inch 4K Monitor,Electronics,26,"12,00,000","3,12,00,000",Customer-033,Asia,Tokyo,06:00 PM – 09:00 PM
+T000845,09-06-2025,PROD-010,Webcam 1080p HD,Electronics,100,"2,00,000","2,00,00,000",Customer-144,Asia,Delhi,06:00 PM – 09:00 PM
+T000868,12-06-2025,PROD-008,Executive Ballpoint Pen Box,Office Supplies,46,"1,20,000","55,20,000",Customer-034,North America,New York,09:00 AM – 11:00 AM
+T001800,26-11-2025,PROD-001,Ergonomic Mesh Chair,Furniture,17,"4,50,000","76,50,000",Customer-143,Asia,Tokyo,12:00 PM – 03:00 PM
+T000139,21-01-2025,PROD-010,Webcam 1080p HD,Electronics,49,"2,00,000","98,00,000",Customer-020,Asia,Bengaluru,06:00 PM – 09:00 PM
+T000894,17-06-2025,PROD-006,A4 Printer Paper (500 Sheets),Office Supplies,23,"25,000","5,75,000",Customer-113,Europe,London,09:00 AM – 11:00 AM
+T001838,03-12-2025,PROD-008,Executive Ballpoint Pen Box,Office Supplies,47,"1,20,000","56,40,000",Customer-065,Asia,Chennai,09:00 AM – 11:00 AM
+T000550,11-04-2025,PROD-006,A4 Printer Paper (500 Sheets),Office Supplies,49,"25,000","12,25,000",Customer-036,Asia,Tokyo,09:00 AM – 11:00 AM
+T000320,04-03-2025,PROD-010,Webcam 1080p HD,Electronics,32,"2,00,000","64,00,000",Customer-109,Europe,London,06:00 PM – 09:00 PM
+T001527,13-10-2025,PROD-009,Adjustable Monitor Arm,Furniture,35,"1,80,000","63,00,000",Customer-150,North America,New York,12:00 PM – 03:00 PM
+T001806,27-11-2025,PROD-001,Ergonomic Mesh Chair,Furniture,40,"4,50,000","1,80,00,000",Customer-047,Asia,Singapore,12:00 PM – 03:00 PM
+T001178,13-08-2025,PROD-009,Adjustable Monitor Arm,Furniture,27,"1,80,000","48,60,000",Customer-070,North America,New York,12:00 PM – 03:00 PM
+T000559,15-04-2025,PROD-001,Ergonomic Mesh Chair,Furniture,11,"4,50,000","49,50,000",Customer-047,Asia,Pune,12:00 PM – 03:00 PM
+T000140,21-01-2025,PROD-009,Adjustable Monitor Arm,Furniture,37,"1,80,000","66,60,000",Customer-033,North America,New York,12:00 PM – 03:00 PM
+T001735,18-11-2025,PROD-003,27-inch 4K Monitor,Electronics,10,"12,00,000","1,20,00,000",Customer-022,North America,New York,06:00 PM – 09:00 PM
+T000532,09-04-2025,PROD-006,A4 Printer Paper (500 Sheets),Office Supplies,21,"25,000","5,25,000",Customer-144,Asia,Hyderabad,09:00 AM – 11:00 AM
+T000225,10-02-2025,PROD-004,Standing Desk Converter,Furniture,44,"5,00,000","2,20,00,000",Customer-149,North America,New York,12:00 PM – 03:00 PM
+T000724,12-05-2025,PROD-006,A4 Printer Paper (500 Sheets),Office Supplies,37,"25,000","9,25,000",Customer-104,Asia,Singapore,09:00 AM – 11:00 AM
+T000787,21-05-2025,PROD-001,Ergonomic Mesh Chair,Furniture,17,"4,50,000","76,50,000",Customer-065,Asia,Dubai,12:00 PM – 03:00 PM
+T001718,13-11-2025,PROD-007,USB-C Docking Station,Electronics,35,"2,50,000","87,50,000",Customer-003,North America,New York,06:00 PM – 09:00 PM
+T001008,10-07-2025,PROD-009,Adjustable Monitor Arm,Furniture,43,"1,80,000","77,40,000",Customer-067,North America,New York,12:00 PM – 03:00 PM
+T000410,17-03-2025,PROD-008,Executive Ballpoint Pen Box,Office Supplies,23,"1,20,000","27,60,000",Customer-025,Asia,Dubai,09:00 AM – 11:00 AM
+T000326,05-03-2025,PROD-004,Standing Desk Converter,Furniture,29,"5,00,000","1,45,00,000",Customer-117,Asia,Chennai,12:00 PM – 03:00 PM
+T001766,21-11-2025,PROD-010,Webcam 1080p HD,Electronics,10,"2,00,000","20,00,000",Customer-120,Asia,Dubai,06:00 PM – 09:00 PM
+T000300,28-02-2025,PROD-009,Adjustable Monitor Arm,Furniture,27,"1,80,000","48,60,000",Customer-148,Europe,London,12:00 PM – 03:00 PM
+T001263,29-08-2025,PROD-004,Standing Desk Converter,Furniture,25,"5,00,000","1,25,00,000",Customer-075,Asia,Chennai,12:00 PM – 03:00 PM
+T001946,23-12-2025,PROD-007,USB-C Docking Station,Electronics,47,"2,50,000","1,17,50,000",Customer-098,Asia,Singapore,06:00 PM – 09:00 PM
+T000026,03-01-2025,PROD-006,A4 Printer Paper (500 Sheets),Office Supplies,36,"25,000","9,00,000",Customer-089,Asia,Pune,09:00 AM – 11:00 AM
+T001859,08-12-2025,PROD-006,A4 Printer Paper (500 Sheets),Office Supplies,38,"25,000","9,50,000",Customer-043,Europe,London,09:00 AM – 11:00 AM
+T000715,12-05-2025,PROD-008,Executive Ballpoint Pen Box,Office Supplies,7,"1,20,000","8,40,000",Customer-062,Asia,Singapore,09:00 AM – 11:00 AM
+T001010,10-07-2025,PROD-003,27-inch 4K Monitor,Electronics,34,"12,00,000","4,08,00,000",Customer-007,Asia,Mumbai,06:00 PM – 09:00 PM
+T000194,05-02-2025,PROD-005,Noise-Cancelling Headphones,Electronics,26,"9,50,000","2,47,00,000",Customer-097,Asia,Dubai,06:00 PM – 09:00 PM
